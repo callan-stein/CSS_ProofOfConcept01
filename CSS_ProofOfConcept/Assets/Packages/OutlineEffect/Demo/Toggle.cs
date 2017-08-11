@@ -17,7 +17,7 @@ namespace cakeslice
         {
             if(Input.GetKeyDown(KeyCode.K))
             {
-                GetComponent<Outline>().enabled = !GetComponent<Outline>().enabled;
+                GetComponent<Selectable>().enabled = !GetComponent<Selectable>().enabled;
             }
         }
     }

@@ -50,7 +50,7 @@ namespace cakeslice
         }
         private OutlineEffect() { }
 
-        private readonly LinkedSet<Outline> outlines = new LinkedSet<Outline>();
+        private readonly LinkedSet<Selectable> outlines = new LinkedSet<Selectable>();
 
         [Range(1.0f, 6.0f)]
         public float lineThickness = 1.25f;
@@ -139,7 +139,7 @@ namespace cakeslice
 
             if(outlineCamera == null)
             {
-                GameObject cameraGameObject = new GameObject("Outline Camera");
+                GameObject cameraGameObject = new GameObject("Selectable Camera");
                 cameraGameObject.transform.parent = sourceCamera.transform;
                 outlineCamera = cameraGameObject.AddComponent<Camera>();
                 outlineCamera.enabled = false;
@@ -181,7 +181,7 @@ namespace cakeslice
 
             if(outlines != null)
             {
-                foreach(Outline outline in outlines)
+                foreach(Selectable outline in outlines)
                 {
                     LayerMask l = sourceCamera.cullingMask;
 
@@ -238,9 +238,9 @@ namespace cakeslice
 
         private void OnEnable()
         {
-            Outline[] o = FindObjectsOfType<Outline>();
+            Selectable[] o = FindObjectsOfType<Selectable>();
 
-            foreach(Outline oL in o)
+            foreach(Selectable oL in o)
             {
                 oL.enabled = false;
                 oL.enabled = true;
@@ -387,16 +387,16 @@ namespace cakeslice
             outlineCamera.allowHDR = false;
         }
 
-        public void AddOutline(Outline outline)
+        public void AddOutline(Selectable selectable)
         {
-            if(!outlines.Contains(outline))
-                outlines.Add(outline);
+            if(!outlines.Contains(selectable))
+                outlines.Add(selectable);
         }
 
-        public void RemoveOutline(Outline outline)
+        public void RemoveOutline(Selectable selectable)
         {
-            if(outlines.Contains(outline))
-                outlines.Remove(outline);
+            if(outlines.Contains(selectable))
+                outlines.Remove(selectable);
         }
     }
 }

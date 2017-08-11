@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: d5769d64e77f69443afa2eb8bf244632
+timeCreated: 1502422355
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3D View: 3D View 6'
+    100002: Assembled Stair Stair [210920]
+    100004: Assembled Stair Stair [210920]_[240481]
+    100006: Assembled Stair Stair [210920]_[240907]
+    100008: Assembled Stair Stair [210920]_[240908]
+    100010: Assembled Stair Stair [236754]
+    100012: Assembled Stair Stair [236754]_[236801]
+    100014: Assembled Stair Stair [236754]_[236801] 1
+    100016: Assembled Stair Stair [236754]_[236873]
+    100018: Assembled Stair Stair [236754]_[236873] 1
+    100020: Assembled Stair Stair [236754]_[236875]
+    100022: Assembled Stair Stair [236754]_[236875] 1
+    100024: Assembled Stair Stair [236754]_[239324]
+    100026: Assembled Stair Stair [236754]_[239324] 1
+    100028: Assembled Stair Stair [236754]_[239325]
+    100030: Assembled Stair Stair [236754]_[239325] 1
+    100032: Assembled Stair Stair [236754]_[239326]
+    100034: Assembled Stair Stair [236754]_[239326] 1
+    100036: Assembled Stair Stair [236754]_[239327]
+    100038: Assembled Stair Stair [236754]_[239327] 1
+    100040: Assembled Stair Stair [236754]_[239328]
+    100042: Assembled Stair Stair [236754]_[239328] 1
+    100044: Assembled Stair Stair [236754]_[239329]
+    100046: Assembled Stair Stair [236754]_[239329] 1
+    100048: Assembled Stair Stair [236754]_[239330]
+    100050: Assembled Stair Stair [236754]_[239330] 1
+    100052: Assembled Stair Stair [236754]_[239331]
+    100054: Assembled Stair Stair [236754]_[239331] 1
+    100056: Assembled Stair Stair [241887]
+    100058: Assembled Stair Stair [241887]_[241888]
+    100060: Assembled Stair Stair [241887]_[241888] 1
+    100062: Assembled Stair Stair [241887]_[241890]
+    100064: Assembled Stair Stair [241887]_[241890] 1
+    100066: Assembled Stair Stair [241887]_[241892]
+    100068: Assembled Stair Stair [241887]_[241892] 1
+    100070: Assembled Stair Stair [241887]_[241943]
+    100072: Assembled Stair Stair [241887]_[241943] 1
+    100074: Assembled Stair Stair [241887]_[241944]
+    100076: Assembled Stair Stair [241887]_[241944] 1
+    100078: Assembled Stair Stair [241887]_[241945]
+    100080: Assembled Stair Stair [241887]_[241945] 1
+    100082: Assembled Stair Stair [241887]_[241946]
+    100084: Assembled Stair Stair [241887]_[241946] 1
+    100086: Assembled Stair Stair [241887]_[241947]
+    100088: Assembled Stair Stair [241887]_[241947] 1
+    100090: Assembled Stair Stair [241887]_[241948]
+    100092: Assembled Stair Stair [241887]_[241948] 1
+    100094: Assembled Stair Stair [241887]_[241949]
+    100096: Assembled Stair Stair [241887]_[241949] 1
+    100098: Assembled Stair Stair [241887]_[241950]
+    100100: Assembled Stair Stair [241887]_[241950] 1
+    100102: Basic Roof Generic Roof - 300mm [252582]
+    100104: Basic Wall 10pb 70 ts 10pb [202796]
+    100106: Basic Wall 10pb 70 ts 10pb [202997]
+    100108: Basic Wall 10pb 70 ts 10pb [203132]
+    100110: Basic Wall 10pb 70 ts 10pb [203265]
+    100112: Basic Wall 10pb 70 ts 10pb [203336]
+    100114: Basic Wall 10pb 70 ts 10pb [203470]
+    100116: Basic Wall 10pb 70 ts 10pb [203648]
+    100118: Basic Wall 10pb 70 ts 10pb [203826]
+    100120: Basic Wall 10pb 70 ts 10pb [203960]
+    100122: Basic Wall 10pb 70 ts 10pb [204114]
+    100124: Basic Wall 10pb 70 ts 10pb [204316]
+    100126: Basic Wall 10pb 70 ts 10pb [204434]
+    100128: Basic Wall 10pb 70 ts 10pb [204801]
+    100130: Basic Wall 10pb 70 ts 10pb [204896]
+    100132: Basic Wall 10pb 70 ts 10pb [204977]
+    100134: Basic Wall 10pb 70 ts 10pb [205134]
+    100136: Basic Wall 10pb 70 ts 10pb [205319]
+    100138: Basic Wall 10pb 70 ts 10pb [205400]
+    100140: Basic Wall 10pb 70 ts 10pb [205500]
+    100142: Basic Wall 10pb 70 ts 10pb [205599]
+    100144: Basic Wall 10pb 70 ts 10pb [205815]
+    100146: Basic Wall 10pb 70 ts 10pb [206015]
+    100148: Basic Wall 10pb 70 ts 10pb [206133]
+    100150: Basic Wall 10pb 70 ts 10pb [206190]
+    100152: Basic Wall 10pb 70 ts 10pb [206240]
+    100154: Basic Wall 10pb 70 ts 10pb [206378]
+    100156: Basic Wall 10pb 70 ts 10pb [206516]
+    100158: Basic Wall 10pb 70 ts 10pb [206629]
+    100160: Basic Wall 190 Block wall [200240]
+    100162: Basic Wall 190 Block wall [200318]
+    100164: Basic Wall 190 Block wall [200427]
+    100166: Basic Wall 190 Block wall [200578]
+    100168: Basic Wall 190 Block wall [200743]
+    100170: Basic Wall 190 Block wall [200858]
+    100172: Basic Wall 190 Block wall [200899]
+    100174: Basic Wall 190 Block wall [201291]
+    100176: Basic Wall 190 Block wall [201865]
+    100178: Basic Wall 190 Block wall [201994]
+    100180: Basic Wall 190 Block wall [202291]
+    100182: Basic Wall 190 Block wall [202340]
+    100184: Basic Wall 190 Block wall [202428]
+    100186: Basic Wall 190 Block wall [202492]
+    100188: Basic Wall 190 Block wall [202591]
+    100190: Basic Wall 190 Block wall [202634]
+    100192: Basic Wall 190 Block wall [215277]
+    100194: Basic Wall 190 Block wall [215369]
+    100196: Basic Wall 190 Block wall [229728]
+    100198: Basic Wall 190 Block wall [242943]
+    100200: Basic Wall 190 Block wall [242969]
+    100202: Basic Wall 190 Block wall [243062]
+    100204: Basic Wall 190 Block wall [243113]
+    100206: Basic Wall 190 Block wall [244481]
+    100208: Basic Wall 190 Block wall [244629]
+    100210: Basic Wall 190 Block wall [244744]
+    100212: Basic Wall 190 Block wall [244781]
+    100214: Basic Wall 190 Block wall [246373]
+    100216: Basic Wall 190 Block wall [259008]
+    100218: Basic Wall 190 Block wall [259462]
+    100220: Basic Wall 190 Block wall [259621]
+    100222: Basic Wall 190 Block wall [259948]
+    100224: Basic Wall 190 Block wall [259988]
+    100226: Basic Wall 190 Block wall [260185]
+    100228: Basic Wall 190 Block wall [260193]
+    100230: Basic Wall 190 Block wall [260201]
+    100232: Basic Wall 190 Block wall [260209]
+    100234: Basic Wall 190 Block wall [260217]
+    100236: Basic Wall 190 Block wall [260225]
+    100238: Basic Wall 190 Block wall [260233]
+    100240: Basic Wall 190 Block wall [260456]
+    100242: Basic Wall 190 Block wall [260527]
+    100244: Basic Wall 190 Block wall grey 1 [200970]
+    100246: Basic Wall 190 Block wall grey 1 [201022]
+    100248: Basic Wall 190 Block wall grey 1 [232824]
+    100250: Basic Wall red 200mm feature [231723]
+    100252: Columns 1 Columns 1 [257677]
+    100254: Columns 2 Columns 1 [258418]
+    100256: Columns 3 Columns 1 [258521]
+    100258: Columns 4 Columns 1 [258536]
+    100260: Columns 5 Columns 1 [258551]
+    100262: Columns 6 Columns 1 [258568]
+    100264: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227512]
+    100266: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227549]
+    100268: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [229616]
+    100270: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223514]
+    100272: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223562]
+    100274: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223574]
+    100276: Floor 100mm concrete [212650]
+    100278: Floor 100mm tiled [238234]
+    100280: Floor Carpet 100mm [211905]
+    100282: Floor Carpet 100mm [214587]
+    100284: Floor Carpet 100mm [241360]
+    100286: Floor Generic Floor - 400mm [246950]
+    100288: Foundation Slab Footpath [243243]
+    100290: Foundation Slab Footpath [245081]
+    100292: M_Fixed Front aloy window 1600x900 [253702]
+    100294: M_Fixed Front aloy window 1600x900 [253784]
+    100296: M_Fixed Front aloy window 1600x900 [253811]
+    100298: M_Fixed Front aloy window 1600x900 [254058]
+    100300: M_Fixed Front aloy window 1600x900 [254067]
+    100302: M_Fixed Front aloy window 1600x900 [254076]
+    100304: M_Fixed Front aloy window 1600x900 [254085]
+    100306: M_Fixed Front aloy window 1600x900 [254094]
+    100308: M_Fixed Front aloy window 1600x900 [254103]
+    100310: M_Fixed Front aloy window 1600x900 [254112]
+    100312: M_Fixed Front aloy window 1600x900 [254130]
+    100314: M_Fixed Front aloy window 1600x900 [254139]
+    100316: M_Fixed Front aloy window 1600x900 [254148]
+    100318: M_Fixed Front aloy window 1600x900 [254157]
+    100320: M_Fixed Front aloy window 1600x900 [254166]
+    100322: M_Fixed Front aloy window 1600x900 [254175]
+    100324: M_Fixed Front aloy window 1600x900 [254184]
+    100326: M_Fixed Front aloy window 1600x900 [254193]
+    100328: M_Fixed Front aloy window 1600x900 [254202]
+    100330: M_Fixed Front aloy window 1600x900 [254211]
+    100332: M_Fixed Front aloy window 1600x900 [254220]
+    100334: M_Fixed Front aloy window 1600x900 [254421]
+    100336: M_Fixed Front aloy window 1600x900 [254430]
+    100338: M_Fixed Front aloy window 1600x900 [254439]
+    100340: M_Fixed Front aloy window 1600x900 [254448]
+    100342: M_Fixed Front aloy window 1600x900 [254498]
+    100344: M_Fixed Front aloy window 1600x900 [254518]
+    100346: M_Fixed Front aloy window 1600x900 [254527]
+    100348: M_Fixed Front aloy window 1600x900 [254536]
+    100350: M_Fixed Front aloy window 1600x900 [254545]
+    100352: M_Fixed Front aloy window 1600x900 [254871]
+    100354: M_Fixed Front aloy window 1600x900 [254977]
+    100356: M_Fixed Front aloy window 1600x900 [255060]
+    100358: M_Fixed Front aloy window 1600x900 [255069]
+    100360: M_Fixed Front aloy window 1600x900 [255078]
+    100362: M_Fixed Front aloy window 1600x900 [255087]
+    100364: M_Fixed Front aloy window 1600x900 [255118]
+    100366: M_Fixed Front aloy window 1600x900 [255127]
+    100368: M_Fixed Front aloy window 1600x900 [255136]
+    100370: M_Fixed Front aloy window 1600x900 [255145]
+    100372: M_Fixed Front aloy window 1600x900 [255508]
+    100374: M_Fixed Front aloy window 1600x900 [255517]
+    100376: M_Fixed Front aloy window 1700x300 2 [250717]
+    100378: M_Fixed Front aloy window 1700x300 2 [250732]
+    100380: M_Fixed Front aloy window 1700x300 2 [250762]
+    100382: M_Fixed Front aloy window 2700x1000 [253423]
+    100384: M_Fixed Front aloy window 2700x1000 [253455]
+    100386: M_Fixed Front aloy window 2700x1000 [253590]
+    100388: M_Fixed Front aloy window 2700x1000 [255423]
+    100390: M_Fixed Front aloy window 2700x1000 [255499]
+    100392: M_Fixed Front aloy window 2700x250 [229852]
+    100394: M_Fixed Front aloy window 2700x250 [229951]
+    100396: M_Fixed Front aloy window 2700x300 [250561]
+    100398: M_Fixed Front aloy window 2700x300 [250582]
+    100400: M_Fixed Front aloy window 2700x300 [250638]
+    100402: M_Fixed Front aloy window 2700x600 [230263]
+    100404: M_Fixed Front aloy window 2700x600 [230285]
+    100406: M_Fixed Front aloy window 2700x600 [230295]
+    100408: M_Fixed Front aloy window 2700x600 [230305]
+    100410: M_Fixed Front aloy window 2700x600 [230315]
+    100412: M_Fixed Front aloy window 2700x600 [230325]
+    100414: M_Fixed Front aloy window 2700x600 [230335]
+    100416: M_Fixed Front aloy window 2700x600 [230345]
+    100418: M_Fixed Front aloy window 2700x600 [230355]
+    100420: M_Fixed Front aloy window 2700x600 [230365]
+    100422: M_Fixed Front aloy window 2700x600 [231206]
+    100424: M_Fixed Front aloy window 2700x600 [231207]
+    100426: M_Fixed Front aloy window 2700x600 [231208]
+    100428: M_Fixed Front aloy window 2700x600 [231209]
+    100430: M_Fixed Front aloy window 2700x600 [231210]
+    100432: M_Fixed Front aloy window 2700x600 [231211]
+    100434: M_Fixed Front aloy window 2700x600 [231212]
+    100436: M_Fixed Front aloy window 2700x600 [231213]
+    100438: M_Fixed Front aloy window 2700x600 [231214]
+    100440: M_Fixed Front aloy window 2700x600 [231215]
+    100442: M_Fixed Front aloy window 2700x600 [231242]
+    100444: M_Fixed Front aloy window 2700x600 [231243]
+    100446: M_Fixed Front aloy window 2700x600 [231244]
+    100448: M_Fixed Front aloy window 2700x600 [231245]
+    100450: M_Fixed Front aloy window 2700x600 [231246]
+    100452: M_Fixed Front aloy window 2700x600 [231247]
+    100454: M_Fixed Front aloy window 2700x600 [231248]
+    100456: M_Fixed Front aloy window 2700x600 [231249]
+    100458: M_Fixed Front aloy window 2700x600 [231250]
+    100460: M_Fixed Front aloy window 2700x600 [231251]
+    100462: M_Fixed Front aloy window 2700x710 [232234]
+    100464: M_Fixed Front aloy window 2700x710 [232270]
+    100466: M_Fixed Front aloy window 2700x710 [232353]
+    100468: M_Fixed Front aloy window 2700x710 [232703]
+    100470: M_Fixed Front aloy window 2700x710 [232704]
+    100472: M_Fixed Front aloy window 2700x710 [232705]
+    100474: M_Fixed Front aloy window 2700x710 [247572]
+    100476: M_Fixed Front aloy window 2700x710 [250518]
+    100478: M_Fixed Front aloy window 2700x900 [219029]
+    100480: M_Fixed Front aloy window 2700x900 [221486]
+    100482: M_Fixed Front aloy window 2700x900 [221517]
+    100484: M_Fixed Front aloy window 2700x900 [247659]
+    100486: M_Fixed Front aloy window 2700x900 [247897]
+    100488: M_Fixed Front aloy window 2700x900 [247918]
+    100490: M_Fixed Front aloy window 2700x900 [247962]
+    100492: M_Fixed Front aloy window 2700x900 [248019]
+    100494: M_Fixed Front aloy window 2700x900 [248118]
+    100496: M_Fixed Front aloy window 2700x900 [248157]
+    100498: M_Fixed Front aloy window 2700x900 [250519]
+    100500: M_Fixed Front aloy window 2700x900 [250520]
+    100502: M_Fixed Front aloy window 2700x900 [250521]
+    100504: M_Fixed Front aloy window 2700x900 [250522]
+    100506: M_Fixed Front aloy window 2700x900 [250523]
+    100508: M_Fixed Front aloy window 2700x900 [250524]
+    100510: M_Fixed Front aloy window 2700x900 [250525]
+    100512: M_Fixed Front aloy window 2700x900 [254917]
+    100514: M_Fixed Front aloy window 2700x900 [254918]
+    100516: M_Fixed Front aloy window 2700x900 [254919]
+    100518: M_Fixed Front aloy window over doorx914 [255985]
+    100520: M_Single-Flush 0864 x 2134mm [207304]
+    100522: M_Single-Flush 0864 x 2134mm [207321]
+    100524: M_Single-Flush 0915 x 2134mm [207422]
+    100526: M_Single-Flush 820 x 2330mm [208042]
+    100528: M_Single-Flush 820 x 2330mm [208106]
+    100530: M_Single-Flush 820 x 2330mm [208128]
+    100532: M_Single-Flush 820 x 2330mm [208162]
+    100534: M_Single-Flush 820 x 2330mm [208185]
+    100536: M_Single-Flush 820 x 2330mm [208208]
+    100538: M_Single-Flush 820 x 2330mm [208241]
+    100540: M_Single-Flush 820 x 2330mm [208272]
+    100542: M_Single-Flush 820 x 2330mm [208302]
+    100544: M_Single-Flush 820 x 2330mm [208351]
+    100546: M_Single-Flush 820 x 2330mm [208371]
+    100548: M_Single-Flush 820 x 2330mm [243126]
+    100550: M_Single-Flush 820 x 2330mm [243155]
+    100552: M_Single-Flush 820 x 2330mm [244682]
+    100554: M_Single-Flush 820 x 2330mm [244793]
+    100556: Non-Monolithic Landing Non-Monolithic Landing [236875]
+    100558: Non-Monolithic Landing Non-Monolithic Landing [241892]
+    100560: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236801]
+    100562: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236873]
+    100564: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [240481]
+    100566: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241888]
+    100568: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241890]
+    100570: Railing 900mm Pipe [211235]
+    100572: Railing 900mm Pipe [211235]_[240514]
+    100574: Railing 900mm Pipe [211235]_[240516]
+    100576: Railing 900mm Pipe [211235]_[240518]
+    100578: Railing 900mm Pipe [211235]_[240520]
+    100580: Railing 900mm Pipe [211235]_[240522]
+    100582: Railing 900mm Pipe [211235]_[240524]
+    100584: Railing 900mm Pipe [211239]
+    100586: Railing 900mm Pipe [211239]_[240499]
+    100588: Railing 900mm Pipe [211239]_[240501]
+    100590: Railing 900mm Pipe [211239]_[240503]
+    100592: Railing 900mm Pipe [211239]_[240505]
+    100594: Railing 900mm Pipe [211239]_[240507]
+    100596: Railing 900mm Pipe [211239]_[240509]
+    100598: Railing 900mm Pipe [211239]_[240511]
+    100600: Railing 900mm Pipe [237464]
+    100602: Railing 900mm Pipe [237464]_[234742]
+    100604: Railing 900mm Pipe [237464]_[234742] 1
+    100606: Railing 900mm Pipe [237464]_[234744]
+    100608: Railing 900mm Pipe [237464]_[234744] 1
+    100610: Railing 900mm Pipe [237464]_[234746]
+    100612: Railing 900mm Pipe [237464]_[234746] 1
+    100614: Railing 900mm Pipe [237464]_[234748]
+    100616: Railing 900mm Pipe [237464]_[234748] 1
+    100618: Railing 900mm Pipe [237464]_[237465]
+    100620: Railing 900mm Pipe [237464]_[237465] 1
+    100622: Railing 900mm Pipe [237464]_[237480]
+    100624: Railing 900mm Pipe [237464]_[237480] 1
+    100626: Railing 900mm Pipe [237464]_[237489]
+    100628: Railing 900mm Pipe [237464]_[237489] 1
+    100630: Railing 900mm Pipe [237464]_[237496]
+    100632: Railing 900mm Pipe [237464]_[237496] 1
+    100634: Railing 900mm Pipe [237464]_[237498]
+    100636: Railing 900mm Pipe [237464]_[237498] 1
+    100638: Railing 900mm Pipe [237464]_[237529]
+    100640: Railing 900mm Pipe [237464]_[237529] 1
+    100642: Railing 900mm Pipe [237468]
+    100644: Railing 900mm Pipe [237468]_[234742]
+    100646: Railing 900mm Pipe [237468]_[234742] 1
+    100648: Railing 900mm Pipe [237468]_[234744]
+    100650: Railing 900mm Pipe [237468]_[234744] 1
+    100652: Railing 900mm Pipe [237468]_[234746]
+    100654: Railing 900mm Pipe [237468]_[234746] 1
+    100656: Railing 900mm Pipe [237468]_[234746] 2
+    100658: Railing 900mm Pipe [237468]_[234746] 3
+    100660: Railing 900mm Pipe [237468]_[234748]
+    100662: Railing 900mm Pipe [237468]_[234748] 1
+    100664: Railing 900mm Pipe [237468]_[234748] 2
+    100666: Railing 900mm Pipe [237468]_[234748] 3
+    100668: Railing 900mm Pipe [237468]_[237469]
+    100670: Railing 900mm Pipe [237468]_[237469] 1
+    100672: Railing 900mm Pipe [237468]_[237480]
+    100674: Railing 900mm Pipe [237468]_[237480] 1
+    100676: Railing 900mm Pipe [237468]_[237480] 10
+    100678: Railing 900mm Pipe [237468]_[237480] 11
+    100680: Railing 900mm Pipe [237468]_[237480] 12
+    100682: Railing 900mm Pipe [237468]_[237480] 13
+    100684: Railing 900mm Pipe [237468]_[237480] 2
+    100686: Railing 900mm Pipe [237468]_[237480] 3
+    100688: Railing 900mm Pipe [237468]_[237480] 4
+    100690: Railing 900mm Pipe [237468]_[237480] 5
+    100692: Railing 900mm Pipe [237468]_[237480] 6
+    100694: Railing 900mm Pipe [237468]_[237480] 7
+    100696: Railing 900mm Pipe [237468]_[237480] 8
+    100698: Railing 900mm Pipe [237468]_[237480] 9
+    100700: Railing 900mm Pipe [237468]_[237489]
+    100702: Railing 900mm Pipe [237468]_[237489] 1
+    100704: Railing 900mm Pipe [239997]
+    100706: Railing 900mm Pipe [239997]_[237480]
+    100708: Railing 900mm Pipe [239997]_[237480] 1
+    100710: Railing 900mm Pipe [239997]_[237480] 2
+    100712: Railing 900mm Pipe [239997]_[237480] 3
+    100714: Railing 900mm Pipe [239997]_[237480] 4
+    100716: Railing 900mm Pipe [239997]_[237480] 5
+    100718: Railing 900mm Pipe [240924]
+    100720: Railing 900mm Pipe [240924]_[237480]
+    100722: Railing 900mm Pipe [240924]_[237480] 1
+    100724: Railing 900mm Pipe [241894]
+    100726: Railing 900mm Pipe [241894]_[234742]
+    100728: Railing 900mm Pipe [241894]_[234742] 1
+    100730: Railing 900mm Pipe [241894]_[234744]
+    100732: Railing 900mm Pipe [241894]_[234744] 1
+    100734: Railing 900mm Pipe [241894]_[234746]
+    100736: Railing 900mm Pipe [241894]_[234746] 1
+    100738: Railing 900mm Pipe [241894]_[234748]
+    100740: Railing 900mm Pipe [241894]_[234748] 1
+    100742: Railing 900mm Pipe [241894]_[237480]
+    100744: Railing 900mm Pipe [241894]_[237480] 1
+    100746: Railing 900mm Pipe [241894]_[237489]
+    100748: Railing 900mm Pipe [241894]_[237489] 1
+    100750: Railing 900mm Pipe [241894]_[237496]
+    100752: Railing 900mm Pipe [241894]_[237496] 1
+    100754: Railing 900mm Pipe [241894]_[237498]
+    100756: Railing 900mm Pipe [241894]_[237498] 1
+    100758: Railing 900mm Pipe [241894]_[237529]
+    100760: Railing 900mm Pipe [241894]_[237529] 1
+    100762: Railing 900mm Pipe [241894]_[241895]
+    100764: Railing 900mm Pipe [241894]_[241895] 1
+    100766: Railing 900mm Pipe [241898]
+    100768: Railing 900mm Pipe [241898]_[234742]
+    100770: Railing 900mm Pipe [241898]_[234742] 1
+    100772: Railing 900mm Pipe [241898]_[234744]
+    100774: Railing 900mm Pipe [241898]_[234744] 1
+    100776: Railing 900mm Pipe [241898]_[234746]
+    100778: Railing 900mm Pipe [241898]_[234746] 1
+    100780: Railing 900mm Pipe [241898]_[234746] 2
+    100782: Railing 900mm Pipe [241898]_[234746] 3
+    100784: Railing 900mm Pipe [241898]_[234748]
+    100786: Railing 900mm Pipe [241898]_[234748] 1
+    100788: Railing 900mm Pipe [241898]_[234748] 2
+    100790: Railing 900mm Pipe [241898]_[234748] 3
+    100792: Railing 900mm Pipe [241898]_[237480]
+    100794: Railing 900mm Pipe [241898]_[237480] 1
+    100796: Railing 900mm Pipe [241898]_[237480] 10
+    100798: Railing 900mm Pipe [241898]_[237480] 11
+    100800: Railing 900mm Pipe [241898]_[237480] 12
+    100802: Railing 900mm Pipe [241898]_[237480] 13
+    100804: Railing 900mm Pipe [241898]_[237480] 14
+    100806: Railing 900mm Pipe [241898]_[237480] 15
+    100808: Railing 900mm Pipe [241898]_[237480] 2
+    100810: Railing 900mm Pipe [241898]_[237480] 3
+    100812: Railing 900mm Pipe [241898]_[237480] 4
+    100814: Railing 900mm Pipe [241898]_[237480] 5
+    100816: Railing 900mm Pipe [241898]_[237480] 6
+    100818: Railing 900mm Pipe [241898]_[237480] 7
+    100820: Railing 900mm Pipe [241898]_[237480] 8
+    100822: Railing 900mm Pipe [241898]_[237480] 9
+    100824: Railing 900mm Pipe [241898]_[241899]
+    100826: Railing 900mm Pipe [241898]_[241899] 1
+    100828: Stringer Stringer - 50mm Width [239324]
+    100830: Stringer Stringer - 50mm Width [239325]
+    100832: Stringer Stringer - 50mm Width [239326]
+    100834: Stringer Stringer - 50mm Width [239327]
+    100836: Stringer Stringer - 50mm Width [239328]
+    100838: Stringer Stringer - 50mm Width [239329]
+    100840: Stringer Stringer - 50mm Width [239330]
+    100842: Stringer Stringer - 50mm Width [239331]
+    100844: Stringer Stringer - 50mm Width [240907]
+    100846: Stringer Stringer - 50mm Width [240908]
+    100848: Stringer Stringer - 50mm Width [241943]
+    100850: Stringer Stringer - 50mm Width [241944]
+    100852: Stringer Stringer - 50mm Width [241945]
+    100854: Stringer Stringer - 50mm Width [241946]
+    100856: Stringer Stringer - 50mm Width [241947]
+    100858: Stringer Stringer - 50mm Width [241948]
+    100860: Stringer Stringer - 50mm Width [241949]
+    100862: Stringer Stringer - 50mm Width [241950]
+    100864: Surface  [266227]
+    100866: Top Rail Type Circular - 40mm [211267]
+    100868: Top Rail Type Circular - 40mm [211278]
+    100870: Top Rail Type Circular - 40mm [237499]
+    100872: Top Rail Type Circular - 40mm [237499]_[237500]
+    100874: Top Rail Type Circular - 40mm [237499]_[237500] 1
+    100876: Top Rail Type Circular - 40mm [237514]
+    100878: Top Rail Type Circular - 40mm [237514]_[237515]
+    100880: Top Rail Type Circular - 40mm [237514]_[237515] 1
+    100882: Top Rail Type Circular - 40mm [240115]
+    100884: Top Rail Type Circular - 40mm [240975]
+    100886: Top Rail Type Circular - 40mm [241917]
+    100888: Top Rail Type Circular - 40mm [241917]_[241918]
+    100890: Top Rail Type Circular - 40mm [241917]_[241918] 1
+    100892: Top Rail Type Circular - 40mm [241930]
+    100894: Top Rail Type Circular - 40mm [241930]_[241931]
+    100896: Top Rail Type Circular - 40mm [241930]_[241931] 1
+    100898: //RootNode
+    400000: '3D View: 3D View 6'
+    400002: Assembled Stair Stair [210920]
+    400004: Assembled Stair Stair [210920]_[240481]
+    400006: Assembled Stair Stair [210920]_[240907]
+    400008: Assembled Stair Stair [210920]_[240908]
+    400010: Assembled Stair Stair [236754]
+    400012: Assembled Stair Stair [236754]_[236801]
+    400014: Assembled Stair Stair [236754]_[236801] 1
+    400016: Assembled Stair Stair [236754]_[236873]
+    400018: Assembled Stair Stair [236754]_[236873] 1
+    400020: Assembled Stair Stair [236754]_[236875]
+    400022: Assembled Stair Stair [236754]_[236875] 1
+    400024: Assembled Stair Stair [236754]_[239324]
+    400026: Assembled Stair Stair [236754]_[239324] 1
+    400028: Assembled Stair Stair [236754]_[239325]
+    400030: Assembled Stair Stair [236754]_[239325] 1
+    400032: Assembled Stair Stair [236754]_[239326]
+    400034: Assembled Stair Stair [236754]_[239326] 1
+    400036: Assembled Stair Stair [236754]_[239327]
+    400038: Assembled Stair Stair [236754]_[239327] 1
+    400040: Assembled Stair Stair [236754]_[239328]
+    400042: Assembled Stair Stair [236754]_[239328] 1
+    400044: Assembled Stair Stair [236754]_[239329]
+    400046: Assembled Stair Stair [236754]_[239329] 1
+    400048: Assembled Stair Stair [236754]_[239330]
+    400050: Assembled Stair Stair [236754]_[239330] 1
+    400052: Assembled Stair Stair [236754]_[239331]
+    400054: Assembled Stair Stair [236754]_[239331] 1
+    400056: Assembled Stair Stair [241887]
+    400058: Assembled Stair Stair [241887]_[241888]
+    400060: Assembled Stair Stair [241887]_[241888] 1
+    400062: Assembled Stair Stair [241887]_[241890]
+    400064: Assembled Stair Stair [241887]_[241890] 1
+    400066: Assembled Stair Stair [241887]_[241892]
+    400068: Assembled Stair Stair [241887]_[241892] 1
+    400070: Assembled Stair Stair [241887]_[241943]
+    400072: Assembled Stair Stair [241887]_[241943] 1
+    400074: Assembled Stair Stair [241887]_[241944]
+    400076: Assembled Stair Stair [241887]_[241944] 1
+    400078: Assembled Stair Stair [241887]_[241945]
+    400080: Assembled Stair Stair [241887]_[241945] 1
+    400082: Assembled Stair Stair [241887]_[241946]
+    400084: Assembled Stair Stair [241887]_[241946] 1
+    400086: Assembled Stair Stair [241887]_[241947]
+    400088: Assembled Stair Stair [241887]_[241947] 1
+    400090: Assembled Stair Stair [241887]_[241948]
+    400092: Assembled Stair Stair [241887]_[241948] 1
+    400094: Assembled Stair Stair [241887]_[241949]
+    400096: Assembled Stair Stair [241887]_[241949] 1
+    400098: Assembled Stair Stair [241887]_[241950]
+    400100: Assembled Stair Stair [241887]_[241950] 1
+    400102: Basic Roof Generic Roof - 300mm [252582]
+    400104: Basic Wall 10pb 70 ts 10pb [202796]
+    400106: Basic Wall 10pb 70 ts 10pb [202997]
+    400108: Basic Wall 10pb 70 ts 10pb [203132]
+    400110: Basic Wall 10pb 70 ts 10pb [203265]
+    400112: Basic Wall 10pb 70 ts 10pb [203336]
+    400114: Basic Wall 10pb 70 ts 10pb [203470]
+    400116: Basic Wall 10pb 70 ts 10pb [203648]
+    400118: Basic Wall 10pb 70 ts 10pb [203826]
+    400120: Basic Wall 10pb 70 ts 10pb [203960]
+    400122: Basic Wall 10pb 70 ts 10pb [204114]
+    400124: Basic Wall 10pb 70 ts 10pb [204316]
+    400126: Basic Wall 10pb 70 ts 10pb [204434]
+    400128: Basic Wall 10pb 70 ts 10pb [204801]
+    400130: Basic Wall 10pb 70 ts 10pb [204896]
+    400132: Basic Wall 10pb 70 ts 10pb [204977]
+    400134: Basic Wall 10pb 70 ts 10pb [205134]
+    400136: Basic Wall 10pb 70 ts 10pb [205319]
+    400138: Basic Wall 10pb 70 ts 10pb [205400]
+    400140: Basic Wall 10pb 70 ts 10pb [205500]
+    400142: Basic Wall 10pb 70 ts 10pb [205599]
+    400144: Basic Wall 10pb 70 ts 10pb [205815]
+    400146: Basic Wall 10pb 70 ts 10pb [206015]
+    400148: Basic Wall 10pb 70 ts 10pb [206133]
+    400150: Basic Wall 10pb 70 ts 10pb [206190]
+    400152: Basic Wall 10pb 70 ts 10pb [206240]
+    400154: Basic Wall 10pb 70 ts 10pb [206378]
+    400156: Basic Wall 10pb 70 ts 10pb [206516]
+    400158: Basic Wall 10pb 70 ts 10pb [206629]
+    400160: Basic Wall 190 Block wall [200240]
+    400162: Basic Wall 190 Block wall [200318]
+    400164: Basic Wall 190 Block wall [200427]
+    400166: Basic Wall 190 Block wall [200578]
+    400168: Basic Wall 190 Block wall [200743]
+    400170: Basic Wall 190 Block wall [200858]
+    400172: Basic Wall 190 Block wall [200899]
+    400174: Basic Wall 190 Block wall [201291]
+    400176: Basic Wall 190 Block wall [201865]
+    400178: Basic Wall 190 Block wall [201994]
+    400180: Basic Wall 190 Block wall [202291]
+    400182: Basic Wall 190 Block wall [202340]
+    400184: Basic Wall 190 Block wall [202428]
+    400186: Basic Wall 190 Block wall [202492]
+    400188: Basic Wall 190 Block wall [202591]
+    400190: Basic Wall 190 Block wall [202634]
+    400192: Basic Wall 190 Block wall [215277]
+    400194: Basic Wall 190 Block wall [215369]
+    400196: Basic Wall 190 Block wall [229728]
+    400198: Basic Wall 190 Block wall [242943]
+    400200: Basic Wall 190 Block wall [242969]
+    400202: Basic Wall 190 Block wall [243062]
+    400204: Basic Wall 190 Block wall [243113]
+    400206: Basic Wall 190 Block wall [244481]
+    400208: Basic Wall 190 Block wall [244629]
+    400210: Basic Wall 190 Block wall [244744]
+    400212: Basic Wall 190 Block wall [244781]
+    400214: Basic Wall 190 Block wall [246373]
+    400216: Basic Wall 190 Block wall [259008]
+    400218: Basic Wall 190 Block wall [259462]
+    400220: Basic Wall 190 Block wall [259621]
+    400222: Basic Wall 190 Block wall [259948]
+    400224: Basic Wall 190 Block wall [259988]
+    400226: Basic Wall 190 Block wall [260185]
+    400228: Basic Wall 190 Block wall [260193]
+    400230: Basic Wall 190 Block wall [260201]
+    400232: Basic Wall 190 Block wall [260209]
+    400234: Basic Wall 190 Block wall [260217]
+    400236: Basic Wall 190 Block wall [260225]
+    400238: Basic Wall 190 Block wall [260233]
+    400240: Basic Wall 190 Block wall [260456]
+    400242: Basic Wall 190 Block wall [260527]
+    400244: Basic Wall 190 Block wall grey 1 [200970]
+    400246: Basic Wall 190 Block wall grey 1 [201022]
+    400248: Basic Wall 190 Block wall grey 1 [232824]
+    400250: Basic Wall red 200mm feature [231723]
+    400252: Columns 1 Columns 1 [257677]
+    400254: Columns 2 Columns 1 [258418]
+    400256: Columns 3 Columns 1 [258521]
+    400258: Columns 4 Columns 1 [258536]
+    400260: Columns 5 Columns 1 [258551]
+    400262: Columns 6 Columns 1 [258568]
+    400264: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227512]
+    400266: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227549]
+    400268: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [229616]
+    400270: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223514]
+    400272: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223562]
+    400274: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223574]
+    400276: Floor 100mm concrete [212650]
+    400278: Floor 100mm tiled [238234]
+    400280: Floor Carpet 100mm [211905]
+    400282: Floor Carpet 100mm [214587]
+    400284: Floor Carpet 100mm [241360]
+    400286: Floor Generic Floor - 400mm [246950]
+    400288: Foundation Slab Footpath [243243]
+    400290: Foundation Slab Footpath [245081]
+    400292: M_Fixed Front aloy window 1600x900 [253702]
+    400294: M_Fixed Front aloy window 1600x900 [253784]
+    400296: M_Fixed Front aloy window 1600x900 [253811]
+    400298: M_Fixed Front aloy window 1600x900 [254058]
+    400300: M_Fixed Front aloy window 1600x900 [254067]
+    400302: M_Fixed Front aloy window 1600x900 [254076]
+    400304: M_Fixed Front aloy window 1600x900 [254085]
+    400306: M_Fixed Front aloy window 1600x900 [254094]
+    400308: M_Fixed Front aloy window 1600x900 [254103]
+    400310: M_Fixed Front aloy window 1600x900 [254112]
+    400312: M_Fixed Front aloy window 1600x900 [254130]
+    400314: M_Fixed Front aloy window 1600x900 [254139]
+    400316: M_Fixed Front aloy window 1600x900 [254148]
+    400318: M_Fixed Front aloy window 1600x900 [254157]
+    400320: M_Fixed Front aloy window 1600x900 [254166]
+    400322: M_Fixed Front aloy window 1600x900 [254175]
+    400324: M_Fixed Front aloy window 1600x900 [254184]
+    400326: M_Fixed Front aloy window 1600x900 [254193]
+    400328: M_Fixed Front aloy window 1600x900 [254202]
+    400330: M_Fixed Front aloy window 1600x900 [254211]
+    400332: M_Fixed Front aloy window 1600x900 [254220]
+    400334: M_Fixed Front aloy window 1600x900 [254421]
+    400336: M_Fixed Front aloy window 1600x900 [254430]
+    400338: M_Fixed Front aloy window 1600x900 [254439]
+    400340: M_Fixed Front aloy window 1600x900 [254448]
+    400342: M_Fixed Front aloy window 1600x900 [254498]
+    400344: M_Fixed Front aloy window 1600x900 [254518]
+    400346: M_Fixed Front aloy window 1600x900 [254527]
+    400348: M_Fixed Front aloy window 1600x900 [254536]
+    400350: M_Fixed Front aloy window 1600x900 [254545]
+    400352: M_Fixed Front aloy window 1600x900 [254871]
+    400354: M_Fixed Front aloy window 1600x900 [254977]
+    400356: M_Fixed Front aloy window 1600x900 [255060]
+    400358: M_Fixed Front aloy window 1600x900 [255069]
+    400360: M_Fixed Front aloy window 1600x900 [255078]
+    400362: M_Fixed Front aloy window 1600x900 [255087]
+    400364: M_Fixed Front aloy window 1600x900 [255118]
+    400366: M_Fixed Front aloy window 1600x900 [255127]
+    400368: M_Fixed Front aloy window 1600x900 [255136]
+    400370: M_Fixed Front aloy window 1600x900 [255145]
+    400372: M_Fixed Front aloy window 1600x900 [255508]
+    400374: M_Fixed Front aloy window 1600x900 [255517]
+    400376: M_Fixed Front aloy window 1700x300 2 [250717]
+    400378: M_Fixed Front aloy window 1700x300 2 [250732]
+    400380: M_Fixed Front aloy window 1700x300 2 [250762]
+    400382: M_Fixed Front aloy window 2700x1000 [253423]
+    400384: M_Fixed Front aloy window 2700x1000 [253455]
+    400386: M_Fixed Front aloy window 2700x1000 [253590]
+    400388: M_Fixed Front aloy window 2700x1000 [255423]
+    400390: M_Fixed Front aloy window 2700x1000 [255499]
+    400392: M_Fixed Front aloy window 2700x250 [229852]
+    400394: M_Fixed Front aloy window 2700x250 [229951]
+    400396: M_Fixed Front aloy window 2700x300 [250561]
+    400398: M_Fixed Front aloy window 2700x300 [250582]
+    400400: M_Fixed Front aloy window 2700x300 [250638]
+    400402: M_Fixed Front aloy window 2700x600 [230263]
+    400404: M_Fixed Front aloy window 2700x600 [230285]
+    400406: M_Fixed Front aloy window 2700x600 [230295]
+    400408: M_Fixed Front aloy window 2700x600 [230305]
+    400410: M_Fixed Front aloy window 2700x600 [230315]
+    400412: M_Fixed Front aloy window 2700x600 [230325]
+    400414: M_Fixed Front aloy window 2700x600 [230335]
+    400416: M_Fixed Front aloy window 2700x600 [230345]
+    400418: M_Fixed Front aloy window 2700x600 [230355]
+    400420: M_Fixed Front aloy window 2700x600 [230365]
+    400422: M_Fixed Front aloy window 2700x600 [231206]
+    400424: M_Fixed Front aloy window 2700x600 [231207]
+    400426: M_Fixed Front aloy window 2700x600 [231208]
+    400428: M_Fixed Front aloy window 2700x600 [231209]
+    400430: M_Fixed Front aloy window 2700x600 [231210]
+    400432: M_Fixed Front aloy window 2700x600 [231211]
+    400434: M_Fixed Front aloy window 2700x600 [231212]
+    400436: M_Fixed Front aloy window 2700x600 [231213]
+    400438: M_Fixed Front aloy window 2700x600 [231214]
+    400440: M_Fixed Front aloy window 2700x600 [231215]
+    400442: M_Fixed Front aloy window 2700x600 [231242]
+    400444: M_Fixed Front aloy window 2700x600 [231243]
+    400446: M_Fixed Front aloy window 2700x600 [231244]
+    400448: M_Fixed Front aloy window 2700x600 [231245]
+    400450: M_Fixed Front aloy window 2700x600 [231246]
+    400452: M_Fixed Front aloy window 2700x600 [231247]
+    400454: M_Fixed Front aloy window 2700x600 [231248]
+    400456: M_Fixed Front aloy window 2700x600 [231249]
+    400458: M_Fixed Front aloy window 2700x600 [231250]
+    400460: M_Fixed Front aloy window 2700x600 [231251]
+    400462: M_Fixed Front aloy window 2700x710 [232234]
+    400464: M_Fixed Front aloy window 2700x710 [232270]
+    400466: M_Fixed Front aloy window 2700x710 [232353]
+    400468: M_Fixed Front aloy window 2700x710 [232703]
+    400470: M_Fixed Front aloy window 2700x710 [232704]
+    400472: M_Fixed Front aloy window 2700x710 [232705]
+    400474: M_Fixed Front aloy window 2700x710 [247572]
+    400476: M_Fixed Front aloy window 2700x710 [250518]
+    400478: M_Fixed Front aloy window 2700x900 [219029]
+    400480: M_Fixed Front aloy window 2700x900 [221486]
+    400482: M_Fixed Front aloy window 2700x900 [221517]
+    400484: M_Fixed Front aloy window 2700x900 [247659]
+    400486: M_Fixed Front aloy window 2700x900 [247897]
+    400488: M_Fixed Front aloy window 2700x900 [247918]
+    400490: M_Fixed Front aloy window 2700x900 [247962]
+    400492: M_Fixed Front aloy window 2700x900 [248019]
+    400494: M_Fixed Front aloy window 2700x900 [248118]
+    400496: M_Fixed Front aloy window 2700x900 [248157]
+    400498: M_Fixed Front aloy window 2700x900 [250519]
+    400500: M_Fixed Front aloy window 2700x900 [250520]
+    400502: M_Fixed Front aloy window 2700x900 [250521]
+    400504: M_Fixed Front aloy window 2700x900 [250522]
+    400506: M_Fixed Front aloy window 2700x900 [250523]
+    400508: M_Fixed Front aloy window 2700x900 [250524]
+    400510: M_Fixed Front aloy window 2700x900 [250525]
+    400512: M_Fixed Front aloy window 2700x900 [254917]
+    400514: M_Fixed Front aloy window 2700x900 [254918]
+    400516: M_Fixed Front aloy window 2700x900 [254919]
+    400518: M_Fixed Front aloy window over doorx914 [255985]
+    400520: M_Single-Flush 0864 x 2134mm [207304]
+    400522: M_Single-Flush 0864 x 2134mm [207321]
+    400524: M_Single-Flush 0915 x 2134mm [207422]
+    400526: M_Single-Flush 820 x 2330mm [208042]
+    400528: M_Single-Flush 820 x 2330mm [208106]
+    400530: M_Single-Flush 820 x 2330mm [208128]
+    400532: M_Single-Flush 820 x 2330mm [208162]
+    400534: M_Single-Flush 820 x 2330mm [208185]
+    400536: M_Single-Flush 820 x 2330mm [208208]
+    400538: M_Single-Flush 820 x 2330mm [208241]
+    400540: M_Single-Flush 820 x 2330mm [208272]
+    400542: M_Single-Flush 820 x 2330mm [208302]
+    400544: M_Single-Flush 820 x 2330mm [208351]
+    400546: M_Single-Flush 820 x 2330mm [208371]
+    400548: M_Single-Flush 820 x 2330mm [243126]
+    400550: M_Single-Flush 820 x 2330mm [243155]
+    400552: M_Single-Flush 820 x 2330mm [244682]
+    400554: M_Single-Flush 820 x 2330mm [244793]
+    400556: Non-Monolithic Landing Non-Monolithic Landing [236875]
+    400558: Non-Monolithic Landing Non-Monolithic Landing [241892]
+    400560: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236801]
+    400562: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236873]
+    400564: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [240481]
+    400566: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241888]
+    400568: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241890]
+    400570: Railing 900mm Pipe [211235]
+    400572: Railing 900mm Pipe [211235]_[240514]
+    400574: Railing 900mm Pipe [211235]_[240516]
+    400576: Railing 900mm Pipe [211235]_[240518]
+    400578: Railing 900mm Pipe [211235]_[240520]
+    400580: Railing 900mm Pipe [211235]_[240522]
+    400582: Railing 900mm Pipe [211235]_[240524]
+    400584: Railing 900mm Pipe [211239]
+    400586: Railing 900mm Pipe [211239]_[240499]
+    400588: Railing 900mm Pipe [211239]_[240501]
+    400590: Railing 900mm Pipe [211239]_[240503]
+    400592: Railing 900mm Pipe [211239]_[240505]
+    400594: Railing 900mm Pipe [211239]_[240507]
+    400596: Railing 900mm Pipe [211239]_[240509]
+    400598: Railing 900mm Pipe [211239]_[240511]
+    400600: Railing 900mm Pipe [237464]
+    400602: Railing 900mm Pipe [237464]_[234742]
+    400604: Railing 900mm Pipe [237464]_[234742] 1
+    400606: Railing 900mm Pipe [237464]_[234744]
+    400608: Railing 900mm Pipe [237464]_[234744] 1
+    400610: Railing 900mm Pipe [237464]_[234746]
+    400612: Railing 900mm Pipe [237464]_[234746] 1
+    400614: Railing 900mm Pipe [237464]_[234748]
+    400616: Railing 900mm Pipe [237464]_[234748] 1
+    400618: Railing 900mm Pipe [237464]_[237465]
+    400620: Railing 900mm Pipe [237464]_[237465] 1
+    400622: Railing 900mm Pipe [237464]_[237480]
+    400624: Railing 900mm Pipe [237464]_[237480] 1
+    400626: Railing 900mm Pipe [237464]_[237489]
+    400628: Railing 900mm Pipe [237464]_[237489] 1
+    400630: Railing 900mm Pipe [237464]_[237496]
+    400632: Railing 900mm Pipe [237464]_[237496] 1
+    400634: Railing 900mm Pipe [237464]_[237498]
+    400636: Railing 900mm Pipe [237464]_[237498] 1
+    400638: Railing 900mm Pipe [237464]_[237529]
+    400640: Railing 900mm Pipe [237464]_[237529] 1
+    400642: Railing 900mm Pipe [237468]
+    400644: Railing 900mm Pipe [237468]_[234742]
+    400646: Railing 900mm Pipe [237468]_[234742] 1
+    400648: Railing 900mm Pipe [237468]_[234744]
+    400650: Railing 900mm Pipe [237468]_[234744] 1
+    400652: Railing 900mm Pipe [237468]_[234746]
+    400654: Railing 900mm Pipe [237468]_[234746] 1
+    400656: Railing 900mm Pipe [237468]_[234746] 2
+    400658: Railing 900mm Pipe [237468]_[234746] 3
+    400660: Railing 900mm Pipe [237468]_[234748]
+    400662: Railing 900mm Pipe [237468]_[234748] 1
+    400664: Railing 900mm Pipe [237468]_[234748] 2
+    400666: Railing 900mm Pipe [237468]_[234748] 3
+    400668: Railing 900mm Pipe [237468]_[237469]
+    400670: Railing 900mm Pipe [237468]_[237469] 1
+    400672: Railing 900mm Pipe [237468]_[237480]
+    400674: Railing 900mm Pipe [237468]_[237480] 1
+    400676: Railing 900mm Pipe [237468]_[237480] 10
+    400678: Railing 900mm Pipe [237468]_[237480] 11
+    400680: Railing 900mm Pipe [237468]_[237480] 12
+    400682: Railing 900mm Pipe [237468]_[237480] 13
+    400684: Railing 900mm Pipe [237468]_[237480] 2
+    400686: Railing 900mm Pipe [237468]_[237480] 3
+    400688: Railing 900mm Pipe [237468]_[237480] 4
+    400690: Railing 900mm Pipe [237468]_[237480] 5
+    400692: Railing 900mm Pipe [237468]_[237480] 6
+    400694: Railing 900mm Pipe [237468]_[237480] 7
+    400696: Railing 900mm Pipe [237468]_[237480] 8
+    400698: Railing 900mm Pipe [237468]_[237480] 9
+    400700: Railing 900mm Pipe [237468]_[237489]
+    400702: Railing 900mm Pipe [237468]_[237489] 1
+    400704: Railing 900mm Pipe [239997]
+    400706: Railing 900mm Pipe [239997]_[237480]
+    400708: Railing 900mm Pipe [239997]_[237480] 1
+    400710: Railing 900mm Pipe [239997]_[237480] 2
+    400712: Railing 900mm Pipe [239997]_[237480] 3
+    400714: Railing 900mm Pipe [239997]_[237480] 4
+    400716: Railing 900mm Pipe [239997]_[237480] 5
+    400718: Railing 900mm Pipe [240924]
+    400720: Railing 900mm Pipe [240924]_[237480]
+    400722: Railing 900mm Pipe [240924]_[237480] 1
+    400724: Railing 900mm Pipe [241894]
+    400726: Railing 900mm Pipe [241894]_[234742]
+    400728: Railing 900mm Pipe [241894]_[234742] 1
+    400730: Railing 900mm Pipe [241894]_[234744]
+    400732: Railing 900mm Pipe [241894]_[234744] 1
+    400734: Railing 900mm Pipe [241894]_[234746]
+    400736: Railing 900mm Pipe [241894]_[234746] 1
+    400738: Railing 900mm Pipe [241894]_[234748]
+    400740: Railing 900mm Pipe [241894]_[234748] 1
+    400742: Railing 900mm Pipe [241894]_[237480]
+    400744: Railing 900mm Pipe [241894]_[237480] 1
+    400746: Railing 900mm Pipe [241894]_[237489]
+    400748: Railing 900mm Pipe [241894]_[237489] 1
+    400750: Railing 900mm Pipe [241894]_[237496]
+    400752: Railing 900mm Pipe [241894]_[237496] 1
+    400754: Railing 900mm Pipe [241894]_[237498]
+    400756: Railing 900mm Pipe [241894]_[237498] 1
+    400758: Railing 900mm Pipe [241894]_[237529]
+    400760: Railing 900mm Pipe [241894]_[237529] 1
+    400762: Railing 900mm Pipe [241894]_[241895]
+    400764: Railing 900mm Pipe [241894]_[241895] 1
+    400766: Railing 900mm Pipe [241898]
+    400768: Railing 900mm Pipe [241898]_[234742]
+    400770: Railing 900mm Pipe [241898]_[234742] 1
+    400772: Railing 900mm Pipe [241898]_[234744]
+    400774: Railing 900mm Pipe [241898]_[234744] 1
+    400776: Railing 900mm Pipe [241898]_[234746]
+    400778: Railing 900mm Pipe [241898]_[234746] 1
+    400780: Railing 900mm Pipe [241898]_[234746] 2
+    400782: Railing 900mm Pipe [241898]_[234746] 3
+    400784: Railing 900mm Pipe [241898]_[234748]
+    400786: Railing 900mm Pipe [241898]_[234748] 1
+    400788: Railing 900mm Pipe [241898]_[234748] 2
+    400790: Railing 900mm Pipe [241898]_[234748] 3
+    400792: Railing 900mm Pipe [241898]_[237480]
+    400794: Railing 900mm Pipe [241898]_[237480] 1
+    400796: Railing 900mm Pipe [241898]_[237480] 10
+    400798: Railing 900mm Pipe [241898]_[237480] 11
+    400800: Railing 900mm Pipe [241898]_[237480] 12
+    400802: Railing 900mm Pipe [241898]_[237480] 13
+    400804: Railing 900mm Pipe [241898]_[237480] 14
+    400806: Railing 900mm Pipe [241898]_[237480] 15
+    400808: Railing 900mm Pipe [241898]_[237480] 2
+    400810: Railing 900mm Pipe [241898]_[237480] 3
+    400812: Railing 900mm Pipe [241898]_[237480] 4
+    400814: Railing 900mm Pipe [241898]_[237480] 5
+    400816: Railing 900mm Pipe [241898]_[237480] 6
+    400818: Railing 900mm Pipe [241898]_[237480] 7
+    400820: Railing 900mm Pipe [241898]_[237480] 8
+    400822: Railing 900mm Pipe [241898]_[237480] 9
+    400824: Railing 900mm Pipe [241898]_[241899]
+    400826: Railing 900mm Pipe [241898]_[241899] 1
+    400828: Stringer Stringer - 50mm Width [239324]
+    400830: Stringer Stringer - 50mm Width [239325]
+    400832: Stringer Stringer - 50mm Width [239326]
+    400834: Stringer Stringer - 50mm Width [239327]
+    400836: Stringer Stringer - 50mm Width [239328]
+    400838: Stringer Stringer - 50mm Width [239329]
+    400840: Stringer Stringer - 50mm Width [239330]
+    400842: Stringer Stringer - 50mm Width [239331]
+    400844: Stringer Stringer - 50mm Width [240907]
+    400846: Stringer Stringer - 50mm Width [240908]
+    400848: Stringer Stringer - 50mm Width [241943]
+    400850: Stringer Stringer - 50mm Width [241944]
+    400852: Stringer Stringer - 50mm Width [241945]
+    400854: Stringer Stringer - 50mm Width [241946]
+    400856: Stringer Stringer - 50mm Width [241947]
+    400858: Stringer Stringer - 50mm Width [241948]
+    400860: Stringer Stringer - 50mm Width [241949]
+    400862: Stringer Stringer - 50mm Width [241950]
+    400864: Surface  [266227]
+    400866: Top Rail Type Circular - 40mm [211267]
+    400868: Top Rail Type Circular - 40mm [211278]
+    400870: Top Rail Type Circular - 40mm [237499]
+    400872: Top Rail Type Circular - 40mm [237499]_[237500]
+    400874: Top Rail Type Circular - 40mm [237499]_[237500] 1
+    400876: Top Rail Type Circular - 40mm [237514]
+    400878: Top Rail Type Circular - 40mm [237514]_[237515]
+    400880: Top Rail Type Circular - 40mm [237514]_[237515] 1
+    400882: Top Rail Type Circular - 40mm [240115]
+    400884: Top Rail Type Circular - 40mm [240975]
+    400886: Top Rail Type Circular - 40mm [241917]
+    400888: Top Rail Type Circular - 40mm [241917]_[241918]
+    400890: Top Rail Type Circular - 40mm [241917]_[241918] 1
+    400892: Top Rail Type Circular - 40mm [241930]
+    400894: Top Rail Type Circular - 40mm [241930]_[241931]
+    400896: Top Rail Type Circular - 40mm [241930]_[241931] 1
+    400898: //RootNode
+    2300000: Assembled Stair Stair [210920]_[240481]
+    2300002: Assembled Stair Stair [210920]_[240907]
+    2300004: Assembled Stair Stair [210920]_[240908]
+    2300006: Assembled Stair Stair [236754]_[236801]
+    2300008: Assembled Stair Stair [236754]_[236801] 1
+    2300010: Assembled Stair Stair [236754]_[236873]
+    2300012: Assembled Stair Stair [236754]_[236873] 1
+    2300014: Assembled Stair Stair [236754]_[236875]
+    2300016: Assembled Stair Stair [236754]_[236875] 1
+    2300018: Assembled Stair Stair [236754]_[239324]
+    2300020: Assembled Stair Stair [236754]_[239324] 1
+    2300022: Assembled Stair Stair [236754]_[239325]
+    2300024: Assembled Stair Stair [236754]_[239325] 1
+    2300026: Assembled Stair Stair [236754]_[239326]
+    2300028: Assembled Stair Stair [236754]_[239326] 1
+    2300030: Assembled Stair Stair [236754]_[239327]
+    2300032: Assembled Stair Stair [236754]_[239327] 1
+    2300034: Assembled Stair Stair [236754]_[239328]
+    2300036: Assembled Stair Stair [236754]_[239328] 1
+    2300038: Assembled Stair Stair [236754]_[239329]
+    2300040: Assembled Stair Stair [236754]_[239329] 1
+    2300042: Assembled Stair Stair [236754]_[239330]
+    2300044: Assembled Stair Stair [236754]_[239330] 1
+    2300046: Assembled Stair Stair [236754]_[239331]
+    2300048: Assembled Stair Stair [236754]_[239331] 1
+    2300050: Assembled Stair Stair [241887]_[241888]
+    2300052: Assembled Stair Stair [241887]_[241888] 1
+    2300054: Assembled Stair Stair [241887]_[241890]
+    2300056: Assembled Stair Stair [241887]_[241890] 1
+    2300058: Assembled Stair Stair [241887]_[241892]
+    2300060: Assembled Stair Stair [241887]_[241892] 1
+    2300062: Assembled Stair Stair [241887]_[241943]
+    2300064: Assembled Stair Stair [241887]_[241943] 1
+    2300066: Assembled Stair Stair [241887]_[241944]
+    2300068: Assembled Stair Stair [241887]_[241944] 1
+    2300070: Assembled Stair Stair [241887]_[241945]
+    2300072: Assembled Stair Stair [241887]_[241945] 1
+    2300074: Assembled Stair Stair [241887]_[241946]
+    2300076: Assembled Stair Stair [241887]_[241946] 1
+    2300078: Assembled Stair Stair [241887]_[241947]
+    2300080: Assembled Stair Stair [241887]_[241947] 1
+    2300082: Assembled Stair Stair [241887]_[241948]
+    2300084: Assembled Stair Stair [241887]_[241948] 1
+    2300086: Assembled Stair Stair [241887]_[241949]
+    2300088: Assembled Stair Stair [241887]_[241949] 1
+    2300090: Assembled Stair Stair [241887]_[241950]
+    2300092: Assembled Stair Stair [241887]_[241950] 1
+    2300094: Basic Roof Generic Roof - 300mm [252582]
+    2300096: Basic Wall 10pb 70 ts 10pb [202796]
+    2300098: Basic Wall 10pb 70 ts 10pb [202997]
+    2300100: Basic Wall 10pb 70 ts 10pb [203132]
+    2300102: Basic Wall 10pb 70 ts 10pb [203265]
+    2300104: Basic Wall 10pb 70 ts 10pb [203336]
+    2300106: Basic Wall 10pb 70 ts 10pb [203470]
+    2300108: Basic Wall 10pb 70 ts 10pb [203648]
+    2300110: Basic Wall 10pb 70 ts 10pb [203826]
+    2300112: Basic Wall 10pb 70 ts 10pb [203960]
+    2300114: Basic Wall 10pb 70 ts 10pb [204114]
+    2300116: Basic Wall 10pb 70 ts 10pb [204316]
+    2300118: Basic Wall 10pb 70 ts 10pb [204434]
+    2300120: Basic Wall 10pb 70 ts 10pb [204801]
+    2300122: Basic Wall 10pb 70 ts 10pb [204896]
+    2300124: Basic Wall 10pb 70 ts 10pb [204977]
+    2300126: Basic Wall 10pb 70 ts 10pb [205134]
+    2300128: Basic Wall 10pb 70 ts 10pb [205319]
+    2300130: Basic Wall 10pb 70 ts 10pb [205400]
+    2300132: Basic Wall 10pb 70 ts 10pb [205500]
+    2300134: Basic Wall 10pb 70 ts 10pb [205599]
+    2300136: Basic Wall 10pb 70 ts 10pb [205815]
+    2300138: Basic Wall 10pb 70 ts 10pb [206015]
+    2300140: Basic Wall 10pb 70 ts 10pb [206133]
+    2300142: Basic Wall 10pb 70 ts 10pb [206190]
+    2300144: Basic Wall 10pb 70 ts 10pb [206240]
+    2300146: Basic Wall 10pb 70 ts 10pb [206378]
+    2300148: Basic Wall 10pb 70 ts 10pb [206516]
+    2300150: Basic Wall 10pb 70 ts 10pb [206629]
+    2300152: Basic Wall 190 Block wall [200240]
+    2300154: Basic Wall 190 Block wall [200318]
+    2300156: Basic Wall 190 Block wall [200427]
+    2300158: Basic Wall 190 Block wall [200578]
+    2300160: Basic Wall 190 Block wall [200743]
+    2300162: Basic Wall 190 Block wall [200858]
+    2300164: Basic Wall 190 Block wall [200899]
+    2300166: Basic Wall 190 Block wall [201291]
+    2300168: Basic Wall 190 Block wall [201865]
+    2300170: Basic Wall 190 Block wall [201994]
+    2300172: Basic Wall 190 Block wall [202291]
+    2300174: Basic Wall 190 Block wall [202340]
+    2300176: Basic Wall 190 Block wall [202428]
+    2300178: Basic Wall 190 Block wall [202492]
+    2300180: Basic Wall 190 Block wall [202591]
+    2300182: Basic Wall 190 Block wall [202634]
+    2300184: Basic Wall 190 Block wall [215277]
+    2300186: Basic Wall 190 Block wall [215369]
+    2300188: Basic Wall 190 Block wall [229728]
+    2300190: Basic Wall 190 Block wall [242943]
+    2300192: Basic Wall 190 Block wall [242969]
+    2300194: Basic Wall 190 Block wall [243062]
+    2300196: Basic Wall 190 Block wall [243113]
+    2300198: Basic Wall 190 Block wall [244481]
+    2300200: Basic Wall 190 Block wall [244629]
+    2300202: Basic Wall 190 Block wall [244744]
+    2300204: Basic Wall 190 Block wall [244781]
+    2300206: Basic Wall 190 Block wall [246373]
+    2300208: Basic Wall 190 Block wall [259008]
+    2300210: Basic Wall 190 Block wall [259462]
+    2300212: Basic Wall 190 Block wall [259621]
+    2300214: Basic Wall 190 Block wall [259948]
+    2300216: Basic Wall 190 Block wall [259988]
+    2300218: Basic Wall 190 Block wall [260185]
+    2300220: Basic Wall 190 Block wall [260193]
+    2300222: Basic Wall 190 Block wall [260201]
+    2300224: Basic Wall 190 Block wall [260209]
+    2300226: Basic Wall 190 Block wall [260217]
+    2300228: Basic Wall 190 Block wall [260225]
+    2300230: Basic Wall 190 Block wall [260233]
+    2300232: Basic Wall 190 Block wall [260456]
+    2300234: Basic Wall 190 Block wall [260527]
+    2300236: Basic Wall 190 Block wall grey 1 [200970]
+    2300238: Basic Wall 190 Block wall grey 1 [201022]
+    2300240: Basic Wall 190 Block wall grey 1 [232824]
+    2300242: Basic Wall red 200mm feature [231723]
+    2300244: Columns 1 Columns 1 [257677]
+    2300246: Columns 2 Columns 1 [258418]
+    2300248: Columns 3 Columns 1 [258521]
+    2300250: Columns 4 Columns 1 [258536]
+    2300252: Columns 5 Columns 1 [258551]
+    2300254: Columns 6 Columns 1 [258568]
+    2300256: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227512]
+    2300258: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227549]
+    2300260: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [229616]
+    2300262: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223514]
+    2300264: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223562]
+    2300266: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223574]
+    2300268: Floor 100mm concrete [212650]
+    2300270: Floor 100mm tiled [238234]
+    2300272: Floor Carpet 100mm [211905]
+    2300274: Floor Carpet 100mm [214587]
+    2300276: Floor Carpet 100mm [241360]
+    2300278: Floor Generic Floor - 400mm [246950]
+    2300280: Foundation Slab Footpath [243243]
+    2300282: Foundation Slab Footpath [245081]
+    2300284: M_Fixed Front aloy window 1600x900 [253702]
+    2300286: M_Fixed Front aloy window 1600x900 [253784]
+    2300288: M_Fixed Front aloy window 1600x900 [253811]
+    2300290: M_Fixed Front aloy window 1600x900 [254058]
+    2300292: M_Fixed Front aloy window 1600x900 [254067]
+    2300294: M_Fixed Front aloy window 1600x900 [254076]
+    2300296: M_Fixed Front aloy window 1600x900 [254085]
+    2300298: M_Fixed Front aloy window 1600x900 [254094]
+    2300300: M_Fixed Front aloy window 1600x900 [254103]
+    2300302: M_Fixed Front aloy window 1600x900 [254112]
+    2300304: M_Fixed Front aloy window 1600x900 [254130]
+    2300306: M_Fixed Front aloy window 1600x900 [254139]
+    2300308: M_Fixed Front aloy window 1600x900 [254148]
+    2300310: M_Fixed Front aloy window 1600x900 [254157]
+    2300312: M_Fixed Front aloy window 1600x900 [254166]
+    2300314: M_Fixed Front aloy window 1600x900 [254175]
+    2300316: M_Fixed Front aloy window 1600x900 [254184]
+    2300318: M_Fixed Front aloy window 1600x900 [254193]
+    2300320: M_Fixed Front aloy window 1600x900 [254202]
+    2300322: M_Fixed Front aloy window 1600x900 [254211]
+    2300324: M_Fixed Front aloy window 1600x900 [254220]
+    2300326: M_Fixed Front aloy window 1600x900 [254421]
+    2300328: M_Fixed Front aloy window 1600x900 [254430]
+    2300330: M_Fixed Front aloy window 1600x900 [254439]
+    2300332: M_Fixed Front aloy window 1600x900 [254448]
+    2300334: M_Fixed Front aloy window 1600x900 [254498]
+    2300336: M_Fixed Front aloy window 1600x900 [254518]
+    2300338: M_Fixed Front aloy window 1600x900 [254527]
+    2300340: M_Fixed Front aloy window 1600x900 [254536]
+    2300342: M_Fixed Front aloy window 1600x900 [254545]
+    2300344: M_Fixed Front aloy window 1600x900 [254871]
+    2300346: M_Fixed Front aloy window 1600x900 [254977]
+    2300348: M_Fixed Front aloy window 1600x900 [255060]
+    2300350: M_Fixed Front aloy window 1600x900 [255069]
+    2300352: M_Fixed Front aloy window 1600x900 [255078]
+    2300354: M_Fixed Front aloy window 1600x900 [255087]
+    2300356: M_Fixed Front aloy window 1600x900 [255118]
+    2300358: M_Fixed Front aloy window 1600x900 [255127]
+    2300360: M_Fixed Front aloy window 1600x900 [255136]
+    2300362: M_Fixed Front aloy window 1600x900 [255145]
+    2300364: M_Fixed Front aloy window 1600x900 [255508]
+    2300366: M_Fixed Front aloy window 1600x900 [255517]
+    2300368: M_Fixed Front aloy window 1700x300 2 [250717]
+    2300370: M_Fixed Front aloy window 1700x300 2 [250732]
+    2300372: M_Fixed Front aloy window 1700x300 2 [250762]
+    2300374: M_Fixed Front aloy window 2700x1000 [253423]
+    2300376: M_Fixed Front aloy window 2700x1000 [253455]
+    2300378: M_Fixed Front aloy window 2700x1000 [253590]
+    2300380: M_Fixed Front aloy window 2700x1000 [255423]
+    2300382: M_Fixed Front aloy window 2700x1000 [255499]
+    2300384: M_Fixed Front aloy window 2700x250 [229852]
+    2300386: M_Fixed Front aloy window 2700x250 [229951]
+    2300388: M_Fixed Front aloy window 2700x300 [250561]
+    2300390: M_Fixed Front aloy window 2700x300 [250582]
+    2300392: M_Fixed Front aloy window 2700x300 [250638]
+    2300394: M_Fixed Front aloy window 2700x600 [230263]
+    2300396: M_Fixed Front aloy window 2700x600 [230285]
+    2300398: M_Fixed Front aloy window 2700x600 [230295]
+    2300400: M_Fixed Front aloy window 2700x600 [230305]
+    2300402: M_Fixed Front aloy window 2700x600 [230315]
+    2300404: M_Fixed Front aloy window 2700x600 [230325]
+    2300406: M_Fixed Front aloy window 2700x600 [230335]
+    2300408: M_Fixed Front aloy window 2700x600 [230345]
+    2300410: M_Fixed Front aloy window 2700x600 [230355]
+    2300412: M_Fixed Front aloy window 2700x600 [230365]
+    2300414: M_Fixed Front aloy window 2700x600 [231206]
+    2300416: M_Fixed Front aloy window 2700x600 [231207]
+    2300418: M_Fixed Front aloy window 2700x600 [231208]
+    2300420: M_Fixed Front aloy window 2700x600 [231209]
+    2300422: M_Fixed Front aloy window 2700x600 [231210]
+    2300424: M_Fixed Front aloy window 2700x600 [231211]
+    2300426: M_Fixed Front aloy window 2700x600 [231212]
+    2300428: M_Fixed Front aloy window 2700x600 [231213]
+    2300430: M_Fixed Front aloy window 2700x600 [231214]
+    2300432: M_Fixed Front aloy window 2700x600 [231215]
+    2300434: M_Fixed Front aloy window 2700x600 [231242]
+    2300436: M_Fixed Front aloy window 2700x600 [231243]
+    2300438: M_Fixed Front aloy window 2700x600 [231244]
+    2300440: M_Fixed Front aloy window 2700x600 [231245]
+    2300442: M_Fixed Front aloy window 2700x600 [231246]
+    2300444: M_Fixed Front aloy window 2700x600 [231247]
+    2300446: M_Fixed Front aloy window 2700x600 [231248]
+    2300448: M_Fixed Front aloy window 2700x600 [231249]
+    2300450: M_Fixed Front aloy window 2700x600 [231250]
+    2300452: M_Fixed Front aloy window 2700x600 [231251]
+    2300454: M_Fixed Front aloy window 2700x710 [232234]
+    2300456: M_Fixed Front aloy window 2700x710 [232270]
+    2300458: M_Fixed Front aloy window 2700x710 [232353]
+    2300460: M_Fixed Front aloy window 2700x710 [232703]
+    2300462: M_Fixed Front aloy window 2700x710 [232704]
+    2300464: M_Fixed Front aloy window 2700x710 [232705]
+    2300466: M_Fixed Front aloy window 2700x710 [247572]
+    2300468: M_Fixed Front aloy window 2700x710 [250518]
+    2300470: M_Fixed Front aloy window 2700x900 [219029]
+    2300472: M_Fixed Front aloy window 2700x900 [221486]
+    2300474: M_Fixed Front aloy window 2700x900 [221517]
+    2300476: M_Fixed Front aloy window 2700x900 [247659]
+    2300478: M_Fixed Front aloy window 2700x900 [247897]
+    2300480: M_Fixed Front aloy window 2700x900 [247918]
+    2300482: M_Fixed Front aloy window 2700x900 [247962]
+    2300484: M_Fixed Front aloy window 2700x900 [248019]
+    2300486: M_Fixed Front aloy window 2700x900 [248118]
+    2300488: M_Fixed Front aloy window 2700x900 [248157]
+    2300490: M_Fixed Front aloy window 2700x900 [250519]
+    2300492: M_Fixed Front aloy window 2700x900 [250520]
+    2300494: M_Fixed Front aloy window 2700x900 [250521]
+    2300496: M_Fixed Front aloy window 2700x900 [250522]
+    2300498: M_Fixed Front aloy window 2700x900 [250523]
+    2300500: M_Fixed Front aloy window 2700x900 [250524]
+    2300502: M_Fixed Front aloy window 2700x900 [250525]
+    2300504: M_Fixed Front aloy window 2700x900 [254917]
+    2300506: M_Fixed Front aloy window 2700x900 [254918]
+    2300508: M_Fixed Front aloy window 2700x900 [254919]
+    2300510: M_Fixed Front aloy window over doorx914 [255985]
+    2300512: M_Single-Flush 0864 x 2134mm [207304]
+    2300514: M_Single-Flush 0864 x 2134mm [207321]
+    2300516: M_Single-Flush 0915 x 2134mm [207422]
+    2300518: M_Single-Flush 820 x 2330mm [208042]
+    2300520: M_Single-Flush 820 x 2330mm [208106]
+    2300522: M_Single-Flush 820 x 2330mm [208128]
+    2300524: M_Single-Flush 820 x 2330mm [208162]
+    2300526: M_Single-Flush 820 x 2330mm [208185]
+    2300528: M_Single-Flush 820 x 2330mm [208208]
+    2300530: M_Single-Flush 820 x 2330mm [208241]
+    2300532: M_Single-Flush 820 x 2330mm [208272]
+    2300534: M_Single-Flush 820 x 2330mm [208302]
+    2300536: M_Single-Flush 820 x 2330mm [208351]
+    2300538: M_Single-Flush 820 x 2330mm [208371]
+    2300540: M_Single-Flush 820 x 2330mm [243126]
+    2300542: M_Single-Flush 820 x 2330mm [243155]
+    2300544: M_Single-Flush 820 x 2330mm [244682]
+    2300546: M_Single-Flush 820 x 2330mm [244793]
+    2300548: Non-Monolithic Landing Non-Monolithic Landing [236875]
+    2300550: Non-Monolithic Landing Non-Monolithic Landing [241892]
+    2300552: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236801]
+    2300554: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236873]
+    2300556: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [240481]
+    2300558: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241888]
+    2300560: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241890]
+    2300562: Railing 900mm Pipe [211235]
+    2300564: Railing 900mm Pipe [211235]_[240514]
+    2300566: Railing 900mm Pipe [211235]_[240516]
+    2300568: Railing 900mm Pipe [211235]_[240518]
+    2300570: Railing 900mm Pipe [211235]_[240520]
+    2300572: Railing 900mm Pipe [211235]_[240522]
+    2300574: Railing 900mm Pipe [211235]_[240524]
+    2300576: Railing 900mm Pipe [211239]
+    2300578: Railing 900mm Pipe [211239]_[240499]
+    2300580: Railing 900mm Pipe [211239]_[240501]
+    2300582: Railing 900mm Pipe [211239]_[240503]
+    2300584: Railing 900mm Pipe [211239]_[240505]
+    2300586: Railing 900mm Pipe [211239]_[240507]
+    2300588: Railing 900mm Pipe [211239]_[240509]
+    2300590: Railing 900mm Pipe [211239]_[240511]
+    2300592: Railing 900mm Pipe [237464]_[234742]
+    2300594: Railing 900mm Pipe [237464]_[234742] 1
+    2300596: Railing 900mm Pipe [237464]_[234744]
+    2300598: Railing 900mm Pipe [237464]_[234744] 1
+    2300600: Railing 900mm Pipe [237464]_[234746]
+    2300602: Railing 900mm Pipe [237464]_[234746] 1
+    2300604: Railing 900mm Pipe [237464]_[234748]
+    2300606: Railing 900mm Pipe [237464]_[234748] 1
+    2300608: Railing 900mm Pipe [237464]_[237465]
+    2300610: Railing 900mm Pipe [237464]_[237465] 1
+    2300612: Railing 900mm Pipe [237464]_[237480]
+    2300614: Railing 900mm Pipe [237464]_[237480] 1
+    2300616: Railing 900mm Pipe [237464]_[237489]
+    2300618: Railing 900mm Pipe [237464]_[237489] 1
+    2300620: Railing 900mm Pipe [237464]_[237496]
+    2300622: Railing 900mm Pipe [237464]_[237496] 1
+    2300624: Railing 900mm Pipe [237464]_[237498]
+    2300626: Railing 900mm Pipe [237464]_[237498] 1
+    2300628: Railing 900mm Pipe [237464]_[237529]
+    2300630: Railing 900mm Pipe [237464]_[237529] 1
+    2300632: Railing 900mm Pipe [237468]_[234742]
+    2300634: Railing 900mm Pipe [237468]_[234742] 1
+    2300636: Railing 900mm Pipe [237468]_[234744]
+    2300638: Railing 900mm Pipe [237468]_[234744] 1
+    2300640: Railing 900mm Pipe [237468]_[234746]
+    2300642: Railing 900mm Pipe [237468]_[234746] 1
+    2300644: Railing 900mm Pipe [237468]_[234746] 2
+    2300646: Railing 900mm Pipe [237468]_[234746] 3
+    2300648: Railing 900mm Pipe [237468]_[234748]
+    2300650: Railing 900mm Pipe [237468]_[234748] 1
+    2300652: Railing 900mm Pipe [237468]_[234748] 2
+    2300654: Railing 900mm Pipe [237468]_[234748] 3
+    2300656: Railing 900mm Pipe [237468]_[237469]
+    2300658: Railing 900mm Pipe [237468]_[237469] 1
+    2300660: Railing 900mm Pipe [237468]_[237480]
+    2300662: Railing 900mm Pipe [237468]_[237480] 1
+    2300664: Railing 900mm Pipe [237468]_[237480] 10
+    2300666: Railing 900mm Pipe [237468]_[237480] 11
+    2300668: Railing 900mm Pipe [237468]_[237480] 12
+    2300670: Railing 900mm Pipe [237468]_[237480] 13
+    2300672: Railing 900mm Pipe [237468]_[237480] 2
+    2300674: Railing 900mm Pipe [237468]_[237480] 3
+    2300676: Railing 900mm Pipe [237468]_[237480] 4
+    2300678: Railing 900mm Pipe [237468]_[237480] 5
+    2300680: Railing 900mm Pipe [237468]_[237480] 6
+    2300682: Railing 900mm Pipe [237468]_[237480] 7
+    2300684: Railing 900mm Pipe [237468]_[237480] 8
+    2300686: Railing 900mm Pipe [237468]_[237480] 9
+    2300688: Railing 900mm Pipe [237468]_[237489]
+    2300690: Railing 900mm Pipe [237468]_[237489] 1
+    2300692: Railing 900mm Pipe [239997]
+    2300694: Railing 900mm Pipe [239997]_[237480]
+    2300696: Railing 900mm Pipe [239997]_[237480] 1
+    2300698: Railing 900mm Pipe [239997]_[237480] 2
+    2300700: Railing 900mm Pipe [239997]_[237480] 3
+    2300702: Railing 900mm Pipe [239997]_[237480] 4
+    2300704: Railing 900mm Pipe [239997]_[237480] 5
+    2300706: Railing 900mm Pipe [240924]
+    2300708: Railing 900mm Pipe [240924]_[237480]
+    2300710: Railing 900mm Pipe [240924]_[237480] 1
+    2300712: Railing 900mm Pipe [241894]_[234742]
+    2300714: Railing 900mm Pipe [241894]_[234742] 1
+    2300716: Railing 900mm Pipe [241894]_[234744]
+    2300718: Railing 900mm Pipe [241894]_[234744] 1
+    2300720: Railing 900mm Pipe [241894]_[234746]
+    2300722: Railing 900mm Pipe [241894]_[234746] 1
+    2300724: Railing 900mm Pipe [241894]_[234748]
+    2300726: Railing 900mm Pipe [241894]_[234748] 1
+    2300728: Railing 900mm Pipe [241894]_[237480]
+    2300730: Railing 900mm Pipe [241894]_[237480] 1
+    2300732: Railing 900mm Pipe [241894]_[237489]
+    2300734: Railing 900mm Pipe [241894]_[237489] 1
+    2300736: Railing 900mm Pipe [241894]_[237496]
+    2300738: Railing 900mm Pipe [241894]_[237496] 1
+    2300740: Railing 900mm Pipe [241894]_[237498]
+    2300742: Railing 900mm Pipe [241894]_[237498] 1
+    2300744: Railing 900mm Pipe [241894]_[237529]
+    2300746: Railing 900mm Pipe [241894]_[237529] 1
+    2300748: Railing 900mm Pipe [241894]_[241895]
+    2300750: Railing 900mm Pipe [241894]_[241895] 1
+    2300752: Railing 900mm Pipe [241898]_[234742]
+    2300754: Railing 900mm Pipe [241898]_[234742] 1
+    2300756: Railing 900mm Pipe [241898]_[234744]
+    2300758: Railing 900mm Pipe [241898]_[234744] 1
+    2300760: Railing 900mm Pipe [241898]_[234746]
+    2300762: Railing 900mm Pipe [241898]_[234746] 1
+    2300764: Railing 900mm Pipe [241898]_[234746] 2
+    2300766: Railing 900mm Pipe [241898]_[234746] 3
+    2300768: Railing 900mm Pipe [241898]_[234748]
+    2300770: Railing 900mm Pipe [241898]_[234748] 1
+    2300772: Railing 900mm Pipe [241898]_[234748] 2
+    2300774: Railing 900mm Pipe [241898]_[234748] 3
+    2300776: Railing 900mm Pipe [241898]_[237480]
+    2300778: Railing 900mm Pipe [241898]_[237480] 1
+    2300780: Railing 900mm Pipe [241898]_[237480] 10
+    2300782: Railing 900mm Pipe [241898]_[237480] 11
+    2300784: Railing 900mm Pipe [241898]_[237480] 12
+    2300786: Railing 900mm Pipe [241898]_[237480] 13
+    2300788: Railing 900mm Pipe [241898]_[237480] 14
+    2300790: Railing 900mm Pipe [241898]_[237480] 15
+    2300792: Railing 900mm Pipe [241898]_[237480] 2
+    2300794: Railing 900mm Pipe [241898]_[237480] 3
+    2300796: Railing 900mm Pipe [241898]_[237480] 4
+    2300798: Railing 900mm Pipe [241898]_[237480] 5
+    2300800: Railing 900mm Pipe [241898]_[237480] 6
+    2300802: Railing 900mm Pipe [241898]_[237480] 7
+    2300804: Railing 900mm Pipe [241898]_[237480] 8
+    2300806: Railing 900mm Pipe [241898]_[237480] 9
+    2300808: Railing 900mm Pipe [241898]_[241899]
+    2300810: Railing 900mm Pipe [241898]_[241899] 1
+    2300812: Stringer Stringer - 50mm Width [239324]
+    2300814: Stringer Stringer - 50mm Width [239325]
+    2300816: Stringer Stringer - 50mm Width [239326]
+    2300818: Stringer Stringer - 50mm Width [239327]
+    2300820: Stringer Stringer - 50mm Width [239328]
+    2300822: Stringer Stringer - 50mm Width [239329]
+    2300824: Stringer Stringer - 50mm Width [239330]
+    2300826: Stringer Stringer - 50mm Width [239331]
+    2300828: Stringer Stringer - 50mm Width [240907]
+    2300830: Stringer Stringer - 50mm Width [240908]
+    2300832: Stringer Stringer - 50mm Width [241943]
+    2300834: Stringer Stringer - 50mm Width [241944]
+    2300836: Stringer Stringer - 50mm Width [241945]
+    2300838: Stringer Stringer - 50mm Width [241946]
+    2300840: Stringer Stringer - 50mm Width [241947]
+    2300842: Stringer Stringer - 50mm Width [241948]
+    2300844: Stringer Stringer - 50mm Width [241949]
+    2300846: Stringer Stringer - 50mm Width [241950]
+    2300848: Surface  [266227]
+    2300850: Top Rail Type Circular - 40mm [211267]
+    2300852: Top Rail Type Circular - 40mm [211278]
+    2300854: Top Rail Type Circular - 40mm [237499]_[237500]
+    2300856: Top Rail Type Circular - 40mm [237499]_[237500] 1
+    2300858: Top Rail Type Circular - 40mm [237514]_[237515]
+    2300860: Top Rail Type Circular - 40mm [237514]_[237515] 1
+    2300862: Top Rail Type Circular - 40mm [240115]
+    2300864: Top Rail Type Circular - 40mm [240975]
+    2300866: Top Rail Type Circular - 40mm [241917]_[241918]
+    2300868: Top Rail Type Circular - 40mm [241917]_[241918] 1
+    2300870: Top Rail Type Circular - 40mm [241930]_[241931]
+    2300872: Top Rail Type Circular - 40mm [241930]_[241931] 1
+    3300000: Assembled Stair Stair [210920]_[240481]
+    3300002: Assembled Stair Stair [210920]_[240907]
+    3300004: Assembled Stair Stair [210920]_[240908]
+    3300006: Assembled Stair Stair [236754]_[236801]
+    3300008: Assembled Stair Stair [236754]_[236801] 1
+    3300010: Assembled Stair Stair [236754]_[236873]
+    3300012: Assembled Stair Stair [236754]_[236873] 1
+    3300014: Assembled Stair Stair [236754]_[236875]
+    3300016: Assembled Stair Stair [236754]_[236875] 1
+    3300018: Assembled Stair Stair [236754]_[239324]
+    3300020: Assembled Stair Stair [236754]_[239324] 1
+    3300022: Assembled Stair Stair [236754]_[239325]
+    3300024: Assembled Stair Stair [236754]_[239325] 1
+    3300026: Assembled Stair Stair [236754]_[239326]
+    3300028: Assembled Stair Stair [236754]_[239326] 1
+    3300030: Assembled Stair Stair [236754]_[239327]
+    3300032: Assembled Stair Stair [236754]_[239327] 1
+    3300034: Assembled Stair Stair [236754]_[239328]
+    3300036: Assembled Stair Stair [236754]_[239328] 1
+    3300038: Assembled Stair Stair [236754]_[239329]
+    3300040: Assembled Stair Stair [236754]_[239329] 1
+    3300042: Assembled Stair Stair [236754]_[239330]
+    3300044: Assembled Stair Stair [236754]_[239330] 1
+    3300046: Assembled Stair Stair [236754]_[239331]
+    3300048: Assembled Stair Stair [236754]_[239331] 1
+    3300050: Assembled Stair Stair [241887]_[241888]
+    3300052: Assembled Stair Stair [241887]_[241888] 1
+    3300054: Assembled Stair Stair [241887]_[241890]
+    3300056: Assembled Stair Stair [241887]_[241890] 1
+    3300058: Assembled Stair Stair [241887]_[241892]
+    3300060: Assembled Stair Stair [241887]_[241892] 1
+    3300062: Assembled Stair Stair [241887]_[241943]
+    3300064: Assembled Stair Stair [241887]_[241943] 1
+    3300066: Assembled Stair Stair [241887]_[241944]
+    3300068: Assembled Stair Stair [241887]_[241944] 1
+    3300070: Assembled Stair Stair [241887]_[241945]
+    3300072: Assembled Stair Stair [241887]_[241945] 1
+    3300074: Assembled Stair Stair [241887]_[241946]
+    3300076: Assembled Stair Stair [241887]_[241946] 1
+    3300078: Assembled Stair Stair [241887]_[241947]
+    3300080: Assembled Stair Stair [241887]_[241947] 1
+    3300082: Assembled Stair Stair [241887]_[241948]
+    3300084: Assembled Stair Stair [241887]_[241948] 1
+    3300086: Assembled Stair Stair [241887]_[241949]
+    3300088: Assembled Stair Stair [241887]_[241949] 1
+    3300090: Assembled Stair Stair [241887]_[241950]
+    3300092: Assembled Stair Stair [241887]_[241950] 1
+    3300094: Basic Roof Generic Roof - 300mm [252582]
+    3300096: Basic Wall 10pb 70 ts 10pb [202796]
+    3300098: Basic Wall 10pb 70 ts 10pb [202997]
+    3300100: Basic Wall 10pb 70 ts 10pb [203132]
+    3300102: Basic Wall 10pb 70 ts 10pb [203265]
+    3300104: Basic Wall 10pb 70 ts 10pb [203336]
+    3300106: Basic Wall 10pb 70 ts 10pb [203470]
+    3300108: Basic Wall 10pb 70 ts 10pb [203648]
+    3300110: Basic Wall 10pb 70 ts 10pb [203826]
+    3300112: Basic Wall 10pb 70 ts 10pb [203960]
+    3300114: Basic Wall 10pb 70 ts 10pb [204114]
+    3300116: Basic Wall 10pb 70 ts 10pb [204316]
+    3300118: Basic Wall 10pb 70 ts 10pb [204434]
+    3300120: Basic Wall 10pb 70 ts 10pb [204801]
+    3300122: Basic Wall 10pb 70 ts 10pb [204896]
+    3300124: Basic Wall 10pb 70 ts 10pb [204977]
+    3300126: Basic Wall 10pb 70 ts 10pb [205134]
+    3300128: Basic Wall 10pb 70 ts 10pb [205319]
+    3300130: Basic Wall 10pb 70 ts 10pb [205400]
+    3300132: Basic Wall 10pb 70 ts 10pb [205500]
+    3300134: Basic Wall 10pb 70 ts 10pb [205599]
+    3300136: Basic Wall 10pb 70 ts 10pb [205815]
+    3300138: Basic Wall 10pb 70 ts 10pb [206015]
+    3300140: Basic Wall 10pb 70 ts 10pb [206133]
+    3300142: Basic Wall 10pb 70 ts 10pb [206190]
+    3300144: Basic Wall 10pb 70 ts 10pb [206240]
+    3300146: Basic Wall 10pb 70 ts 10pb [206378]
+    3300148: Basic Wall 10pb 70 ts 10pb [206516]
+    3300150: Basic Wall 10pb 70 ts 10pb [206629]
+    3300152: Basic Wall 190 Block wall [200240]
+    3300154: Basic Wall 190 Block wall [200318]
+    3300156: Basic Wall 190 Block wall [200427]
+    3300158: Basic Wall 190 Block wall [200578]
+    3300160: Basic Wall 190 Block wall [200743]
+    3300162: Basic Wall 190 Block wall [200858]
+    3300164: Basic Wall 190 Block wall [200899]
+    3300166: Basic Wall 190 Block wall [201291]
+    3300168: Basic Wall 190 Block wall [201865]
+    3300170: Basic Wall 190 Block wall [201994]
+    3300172: Basic Wall 190 Block wall [202291]
+    3300174: Basic Wall 190 Block wall [202340]
+    3300176: Basic Wall 190 Block wall [202428]
+    3300178: Basic Wall 190 Block wall [202492]
+    3300180: Basic Wall 190 Block wall [202591]
+    3300182: Basic Wall 190 Block wall [202634]
+    3300184: Basic Wall 190 Block wall [215277]
+    3300186: Basic Wall 190 Block wall [215369]
+    3300188: Basic Wall 190 Block wall [229728]
+    3300190: Basic Wall 190 Block wall [242943]
+    3300192: Basic Wall 190 Block wall [242969]
+    3300194: Basic Wall 190 Block wall [243062]
+    3300196: Basic Wall 190 Block wall [243113]
+    3300198: Basic Wall 190 Block wall [244481]
+    3300200: Basic Wall 190 Block wall [244629]
+    3300202: Basic Wall 190 Block wall [244744]
+    3300204: Basic Wall 190 Block wall [244781]
+    3300206: Basic Wall 190 Block wall [246373]
+    3300208: Basic Wall 190 Block wall [259008]
+    3300210: Basic Wall 190 Block wall [259462]
+    3300212: Basic Wall 190 Block wall [259621]
+    3300214: Basic Wall 190 Block wall [259948]
+    3300216: Basic Wall 190 Block wall [259988]
+    3300218: Basic Wall 190 Block wall [260185]
+    3300220: Basic Wall 190 Block wall [260193]
+    3300222: Basic Wall 190 Block wall [260201]
+    3300224: Basic Wall 190 Block wall [260209]
+    3300226: Basic Wall 190 Block wall [260217]
+    3300228: Basic Wall 190 Block wall [260225]
+    3300230: Basic Wall 190 Block wall [260233]
+    3300232: Basic Wall 190 Block wall [260456]
+    3300234: Basic Wall 190 Block wall [260527]
+    3300236: Basic Wall 190 Block wall grey 1 [200970]
+    3300238: Basic Wall 190 Block wall grey 1 [201022]
+    3300240: Basic Wall 190 Block wall grey 1 [232824]
+    3300242: Basic Wall red 200mm feature [231723]
+    3300244: Columns 1 Columns 1 [257677]
+    3300246: Columns 2 Columns 1 [258418]
+    3300248: Columns 3 Columns 1 [258521]
+    3300250: Columns 4 Columns 1 [258536]
+    3300252: Columns 5 Columns 1 [258551]
+    3300254: Columns 6 Columns 1 [258568]
+    3300256: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227512]
+    3300258: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227549]
+    3300260: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [229616]
+    3300262: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223514]
+    3300264: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223562]
+    3300266: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223574]
+    3300268: Floor 100mm concrete [212650]
+    3300270: Floor 100mm tiled [238234]
+    3300272: Floor Carpet 100mm [211905]
+    3300274: Floor Carpet 100mm [214587]
+    3300276: Floor Carpet 100mm [241360]
+    3300278: Floor Generic Floor - 400mm [246950]
+    3300280: Foundation Slab Footpath [243243]
+    3300282: Foundation Slab Footpath [245081]
+    3300284: M_Fixed Front aloy window 1600x900 [253702]
+    3300286: M_Fixed Front aloy window 1600x900 [253784]
+    3300288: M_Fixed Front aloy window 1600x900 [253811]
+    3300290: M_Fixed Front aloy window 1600x900 [254058]
+    3300292: M_Fixed Front aloy window 1600x900 [254067]
+    3300294: M_Fixed Front aloy window 1600x900 [254076]
+    3300296: M_Fixed Front aloy window 1600x900 [254085]
+    3300298: M_Fixed Front aloy window 1600x900 [254094]
+    3300300: M_Fixed Front aloy window 1600x900 [254103]
+    3300302: M_Fixed Front aloy window 1600x900 [254112]
+    3300304: M_Fixed Front aloy window 1600x900 [254130]
+    3300306: M_Fixed Front aloy window 1600x900 [254139]
+    3300308: M_Fixed Front aloy window 1600x900 [254148]
+    3300310: M_Fixed Front aloy window 1600x900 [254157]
+    3300312: M_Fixed Front aloy window 1600x900 [254166]
+    3300314: M_Fixed Front aloy window 1600x900 [254175]
+    3300316: M_Fixed Front aloy window 1600x900 [254184]
+    3300318: M_Fixed Front aloy window 1600x900 [254193]
+    3300320: M_Fixed Front aloy window 1600x900 [254202]
+    3300322: M_Fixed Front aloy window 1600x900 [254211]
+    3300324: M_Fixed Front aloy window 1600x900 [254220]
+    3300326: M_Fixed Front aloy window 1600x900 [254421]
+    3300328: M_Fixed Front aloy window 1600x900 [254430]
+    3300330: M_Fixed Front aloy window 1600x900 [254439]
+    3300332: M_Fixed Front aloy window 1600x900 [254448]
+    3300334: M_Fixed Front aloy window 1600x900 [254498]
+    3300336: M_Fixed Front aloy window 1600x900 [254518]
+    3300338: M_Fixed Front aloy window 1600x900 [254527]
+    3300340: M_Fixed Front aloy window 1600x900 [254536]
+    3300342: M_Fixed Front aloy window 1600x900 [254545]
+    3300344: M_Fixed Front aloy window 1600x900 [254871]
+    3300346: M_Fixed Front aloy window 1600x900 [254977]
+    3300348: M_Fixed Front aloy window 1600x900 [255060]
+    3300350: M_Fixed Front aloy window 1600x900 [255069]
+    3300352: M_Fixed Front aloy window 1600x900 [255078]
+    3300354: M_Fixed Front aloy window 1600x900 [255087]
+    3300356: M_Fixed Front aloy window 1600x900 [255118]
+    3300358: M_Fixed Front aloy window 1600x900 [255127]
+    3300360: M_Fixed Front aloy window 1600x900 [255136]
+    3300362: M_Fixed Front aloy window 1600x900 [255145]
+    3300364: M_Fixed Front aloy window 1600x900 [255508]
+    3300366: M_Fixed Front aloy window 1600x900 [255517]
+    3300368: M_Fixed Front aloy window 1700x300 2 [250717]
+    3300370: M_Fixed Front aloy window 1700x300 2 [250732]
+    3300372: M_Fixed Front aloy window 1700x300 2 [250762]
+    3300374: M_Fixed Front aloy window 2700x1000 [253423]
+    3300376: M_Fixed Front aloy window 2700x1000 [253455]
+    3300378: M_Fixed Front aloy window 2700x1000 [253590]
+    3300380: M_Fixed Front aloy window 2700x1000 [255423]
+    3300382: M_Fixed Front aloy window 2700x1000 [255499]
+    3300384: M_Fixed Front aloy window 2700x250 [229852]
+    3300386: M_Fixed Front aloy window 2700x250 [229951]
+    3300388: M_Fixed Front aloy window 2700x300 [250561]
+    3300390: M_Fixed Front aloy window 2700x300 [250582]
+    3300392: M_Fixed Front aloy window 2700x300 [250638]
+    3300394: M_Fixed Front aloy window 2700x600 [230263]
+    3300396: M_Fixed Front aloy window 2700x600 [230285]
+    3300398: M_Fixed Front aloy window 2700x600 [230295]
+    3300400: M_Fixed Front aloy window 2700x600 [230305]
+    3300402: M_Fixed Front aloy window 2700x600 [230315]
+    3300404: M_Fixed Front aloy window 2700x600 [230325]
+    3300406: M_Fixed Front aloy window 2700x600 [230335]
+    3300408: M_Fixed Front aloy window 2700x600 [230345]
+    3300410: M_Fixed Front aloy window 2700x600 [230355]
+    3300412: M_Fixed Front aloy window 2700x600 [230365]
+    3300414: M_Fixed Front aloy window 2700x600 [231206]
+    3300416: M_Fixed Front aloy window 2700x600 [231207]
+    3300418: M_Fixed Front aloy window 2700x600 [231208]
+    3300420: M_Fixed Front aloy window 2700x600 [231209]
+    3300422: M_Fixed Front aloy window 2700x600 [231210]
+    3300424: M_Fixed Front aloy window 2700x600 [231211]
+    3300426: M_Fixed Front aloy window 2700x600 [231212]
+    3300428: M_Fixed Front aloy window 2700x600 [231213]
+    3300430: M_Fixed Front aloy window 2700x600 [231214]
+    3300432: M_Fixed Front aloy window 2700x600 [231215]
+    3300434: M_Fixed Front aloy window 2700x600 [231242]
+    3300436: M_Fixed Front aloy window 2700x600 [231243]
+    3300438: M_Fixed Front aloy window 2700x600 [231244]
+    3300440: M_Fixed Front aloy window 2700x600 [231245]
+    3300442: M_Fixed Front aloy window 2700x600 [231246]
+    3300444: M_Fixed Front aloy window 2700x600 [231247]
+    3300446: M_Fixed Front aloy window 2700x600 [231248]
+    3300448: M_Fixed Front aloy window 2700x600 [231249]
+    3300450: M_Fixed Front aloy window 2700x600 [231250]
+    3300452: M_Fixed Front aloy window 2700x600 [231251]
+    3300454: M_Fixed Front aloy window 2700x710 [232234]
+    3300456: M_Fixed Front aloy window 2700x710 [232270]
+    3300458: M_Fixed Front aloy window 2700x710 [232353]
+    3300460: M_Fixed Front aloy window 2700x710 [232703]
+    3300462: M_Fixed Front aloy window 2700x710 [232704]
+    3300464: M_Fixed Front aloy window 2700x710 [232705]
+    3300466: M_Fixed Front aloy window 2700x710 [247572]
+    3300468: M_Fixed Front aloy window 2700x710 [250518]
+    3300470: M_Fixed Front aloy window 2700x900 [219029]
+    3300472: M_Fixed Front aloy window 2700x900 [221486]
+    3300474: M_Fixed Front aloy window 2700x900 [221517]
+    3300476: M_Fixed Front aloy window 2700x900 [247659]
+    3300478: M_Fixed Front aloy window 2700x900 [247897]
+    3300480: M_Fixed Front aloy window 2700x900 [247918]
+    3300482: M_Fixed Front aloy window 2700x900 [247962]
+    3300484: M_Fixed Front aloy window 2700x900 [248019]
+    3300486: M_Fixed Front aloy window 2700x900 [248118]
+    3300488: M_Fixed Front aloy window 2700x900 [248157]
+    3300490: M_Fixed Front aloy window 2700x900 [250519]
+    3300492: M_Fixed Front aloy window 2700x900 [250520]
+    3300494: M_Fixed Front aloy window 2700x900 [250521]
+    3300496: M_Fixed Front aloy window 2700x900 [250522]
+    3300498: M_Fixed Front aloy window 2700x900 [250523]
+    3300500: M_Fixed Front aloy window 2700x900 [250524]
+    3300502: M_Fixed Front aloy window 2700x900 [250525]
+    3300504: M_Fixed Front aloy window 2700x900 [254917]
+    3300506: M_Fixed Front aloy window 2700x900 [254918]
+    3300508: M_Fixed Front aloy window 2700x900 [254919]
+    3300510: M_Fixed Front aloy window over doorx914 [255985]
+    3300512: M_Single-Flush 0864 x 2134mm [207304]
+    3300514: M_Single-Flush 0864 x 2134mm [207321]
+    3300516: M_Single-Flush 0915 x 2134mm [207422]
+    3300518: M_Single-Flush 820 x 2330mm [208042]
+    3300520: M_Single-Flush 820 x 2330mm [208106]
+    3300522: M_Single-Flush 820 x 2330mm [208128]
+    3300524: M_Single-Flush 820 x 2330mm [208162]
+    3300526: M_Single-Flush 820 x 2330mm [208185]
+    3300528: M_Single-Flush 820 x 2330mm [208208]
+    3300530: M_Single-Flush 820 x 2330mm [208241]
+    3300532: M_Single-Flush 820 x 2330mm [208272]
+    3300534: M_Single-Flush 820 x 2330mm [208302]
+    3300536: M_Single-Flush 820 x 2330mm [208351]
+    3300538: M_Single-Flush 820 x 2330mm [208371]
+    3300540: M_Single-Flush 820 x 2330mm [243126]
+    3300542: M_Single-Flush 820 x 2330mm [243155]
+    3300544: M_Single-Flush 820 x 2330mm [244682]
+    3300546: M_Single-Flush 820 x 2330mm [244793]
+    3300548: Non-Monolithic Landing Non-Monolithic Landing [236875]
+    3300550: Non-Monolithic Landing Non-Monolithic Landing [241892]
+    3300552: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236801]
+    3300554: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [236873]
+    3300556: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [240481]
+    3300558: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241888]
+    3300560: Non-Monolithic Run 50mm Tread 25mm Nosing 13mm Riser [241890]
+    3300562: Railing 900mm Pipe [211235]
+    3300564: Railing 900mm Pipe [211235]_[240514]
+    3300566: Railing 900mm Pipe [211235]_[240516]
+    3300568: Railing 900mm Pipe [211235]_[240518]
+    3300570: Railing 900mm Pipe [211235]_[240520]
+    3300572: Railing 900mm Pipe [211235]_[240522]
+    3300574: Railing 900mm Pipe [211235]_[240524]
+    3300576: Railing 900mm Pipe [211239]
+    3300578: Railing 900mm Pipe [211239]_[240499]
+    3300580: Railing 900mm Pipe [211239]_[240501]
+    3300582: Railing 900mm Pipe [211239]_[240503]
+    3300584: Railing 900mm Pipe [211239]_[240505]
+    3300586: Railing 900mm Pipe [211239]_[240507]
+    3300588: Railing 900mm Pipe [211239]_[240509]
+    3300590: Railing 900mm Pipe [211239]_[240511]
+    3300592: Railing 900mm Pipe [237464]_[234742]
+    3300594: Railing 900mm Pipe [237464]_[234742] 1
+    3300596: Railing 900mm Pipe [237464]_[234744]
+    3300598: Railing 900mm Pipe [237464]_[234744] 1
+    3300600: Railing 900mm Pipe [237464]_[234746]
+    3300602: Railing 900mm Pipe [237464]_[234746] 1
+    3300604: Railing 900mm Pipe [237464]_[234748]
+    3300606: Railing 900mm Pipe [237464]_[234748] 1
+    3300608: Railing 900mm Pipe [237464]_[237465]
+    3300610: Railing 900mm Pipe [237464]_[237465] 1
+    3300612: Railing 900mm Pipe [237464]_[237480]
+    3300614: Railing 900mm Pipe [237464]_[237480] 1
+    3300616: Railing 900mm Pipe [237464]_[237489]
+    3300618: Railing 900mm Pipe [237464]_[237489] 1
+    3300620: Railing 900mm Pipe [237464]_[237496]
+    3300622: Railing 900mm Pipe [237464]_[237496] 1
+    3300624: Railing 900mm Pipe [237464]_[237498]
+    3300626: Railing 900mm Pipe [237464]_[237498] 1
+    3300628: Railing 900mm Pipe [237464]_[237529]
+    3300630: Railing 900mm Pipe [237464]_[237529] 1
+    3300632: Railing 900mm Pipe [237468]_[234742]
+    3300634: Railing 900mm Pipe [237468]_[234742] 1
+    3300636: Railing 900mm Pipe [237468]_[234744]
+    3300638: Railing 900mm Pipe [237468]_[234744] 1
+    3300640: Railing 900mm Pipe [237468]_[234746]
+    3300642: Railing 900mm Pipe [237468]_[234746] 1
+    3300644: Railing 900mm Pipe [237468]_[234746] 2
+    3300646: Railing 900mm Pipe [237468]_[234746] 3
+    3300648: Railing 900mm Pipe [237468]_[234748]
+    3300650: Railing 900mm Pipe [237468]_[234748] 1
+    3300652: Railing 900mm Pipe [237468]_[234748] 2
+    3300654: Railing 900mm Pipe [237468]_[234748] 3
+    3300656: Railing 900mm Pipe [237468]_[237469]
+    3300658: Railing 900mm Pipe [237468]_[237469] 1
+    3300660: Railing 900mm Pipe [237468]_[237480]
+    3300662: Railing 900mm Pipe [237468]_[237480] 1
+    3300664: Railing 900mm Pipe [237468]_[237480] 10
+    3300666: Railing 900mm Pipe [237468]_[237480] 11
+    3300668: Railing 900mm Pipe [237468]_[237480] 12
+    3300670: Railing 900mm Pipe [237468]_[237480] 13
+    3300672: Railing 900mm Pipe [237468]_[237480] 2
+    3300674: Railing 900mm Pipe [237468]_[237480] 3
+    3300676: Railing 900mm Pipe [237468]_[237480] 4
+    3300678: Railing 900mm Pipe [237468]_[237480] 5
+    3300680: Railing 900mm Pipe [237468]_[237480] 6
+    3300682: Railing 900mm Pipe [237468]_[237480] 7
+    3300684: Railing 900mm Pipe [237468]_[237480] 8
+    3300686: Railing 900mm Pipe [237468]_[237480] 9
+    3300688: Railing 900mm Pipe [237468]_[237489]
+    3300690: Railing 900mm Pipe [237468]_[237489] 1
+    3300692: Railing 900mm Pipe [239997]
+    3300694: Railing 900mm Pipe [239997]_[237480]
+    3300696: Railing 900mm Pipe [239997]_[237480] 1
+    3300698: Railing 900mm Pipe [239997]_[237480] 2
+    3300700: Railing 900mm Pipe [239997]_[237480] 3
+    3300702: Railing 900mm Pipe [239997]_[237480] 4
+    3300704: Railing 900mm Pipe [239997]_[237480] 5
+    3300706: Railing 900mm Pipe [240924]
+    3300708: Railing 900mm Pipe [240924]_[237480]
+    3300710: Railing 900mm Pipe [240924]_[237480] 1
+    3300712: Railing 900mm Pipe [241894]_[234742]
+    3300714: Railing 900mm Pipe [241894]_[234742] 1
+    3300716: Railing 900mm Pipe [241894]_[234744]
+    3300718: Railing 900mm Pipe [241894]_[234744] 1
+    3300720: Railing 900mm Pipe [241894]_[234746]
+    3300722: Railing 900mm Pipe [241894]_[234746] 1
+    3300724: Railing 900mm Pipe [241894]_[234748]
+    3300726: Railing 900mm Pipe [241894]_[234748] 1
+    3300728: Railing 900mm Pipe [241894]_[237480]
+    3300730: Railing 900mm Pipe [241894]_[237480] 1
+    3300732: Railing 900mm Pipe [241894]_[237489]
+    3300734: Railing 900mm Pipe [241894]_[237489] 1
+    3300736: Railing 900mm Pipe [241894]_[237496]
+    3300738: Railing 900mm Pipe [241894]_[237496] 1
+    3300740: Railing 900mm Pipe [241894]_[237498]
+    3300742: Railing 900mm Pipe [241894]_[237498] 1
+    3300744: Railing 900mm Pipe [241894]_[237529]
+    3300746: Railing 900mm Pipe [241894]_[237529] 1
+    3300748: Railing 900mm Pipe [241894]_[241895]
+    3300750: Railing 900mm Pipe [241894]_[241895] 1
+    3300752: Railing 900mm Pipe [241898]_[234742]
+    3300754: Railing 900mm Pipe [241898]_[234742] 1
+    3300756: Railing 900mm Pipe [241898]_[234744]
+    3300758: Railing 900mm Pipe [241898]_[234744] 1
+    3300760: Railing 900mm Pipe [241898]_[234746]
+    3300762: Railing 900mm Pipe [241898]_[234746] 1
+    3300764: Railing 900mm Pipe [241898]_[234746] 2
+    3300766: Railing 900mm Pipe [241898]_[234746] 3
+    3300768: Railing 900mm Pipe [241898]_[234748]
+    3300770: Railing 900mm Pipe [241898]_[234748] 1
+    3300772: Railing 900mm Pipe [241898]_[234748] 2
+    3300774: Railing 900mm Pipe [241898]_[234748] 3
+    3300776: Railing 900mm Pipe [241898]_[237480]
+    3300778: Railing 900mm Pipe [241898]_[237480] 1
+    3300780: Railing 900mm Pipe [241898]_[237480] 10
+    3300782: Railing 900mm Pipe [241898]_[237480] 11
+    3300784: Railing 900mm Pipe [241898]_[237480] 12
+    3300786: Railing 900mm Pipe [241898]_[237480] 13
+    3300788: Railing 900mm Pipe [241898]_[237480] 14
+    3300790: Railing 900mm Pipe [241898]_[237480] 15
+    3300792: Railing 900mm Pipe [241898]_[237480] 2
+    3300794: Railing 900mm Pipe [241898]_[237480] 3
+    3300796: Railing 900mm Pipe [241898]_[237480] 4
+    3300798: Railing 900mm Pipe [241898]_[237480] 5
+    3300800: Railing 900mm Pipe [241898]_[237480] 6
+    3300802: Railing 900mm Pipe [241898]_[237480] 7
+    3300804: Railing 900mm Pipe [241898]_[237480] 8
+    3300806: Railing 900mm Pipe [241898]_[237480] 9
+    3300808: Railing 900mm Pipe [241898]_[241899]
+    3300810: Railing 900mm Pipe [241898]_[241899] 1
+    3300812: Stringer Stringer - 50mm Width [239324]
+    3300814: Stringer Stringer - 50mm Width [239325]
+    3300816: Stringer Stringer - 50mm Width [239326]
+    3300818: Stringer Stringer - 50mm Width [239327]
+    3300820: Stringer Stringer - 50mm Width [239328]
+    3300822: Stringer Stringer - 50mm Width [239329]
+    3300824: Stringer Stringer - 50mm Width [239330]
+    3300826: Stringer Stringer - 50mm Width [239331]
+    3300828: Stringer Stringer - 50mm Width [240907]
+    3300830: Stringer Stringer - 50mm Width [240908]
+    3300832: Stringer Stringer - 50mm Width [241943]
+    3300834: Stringer Stringer - 50mm Width [241944]
+    3300836: Stringer Stringer - 50mm Width [241945]
+    3300838: Stringer Stringer - 50mm Width [241946]
+    3300840: Stringer Stringer - 50mm Width [241947]
+    3300842: Stringer Stringer - 50mm Width [241948]
+    3300844: Stringer Stringer - 50mm Width [241949]
+    3300846: Stringer Stringer - 50mm Width [241950]
+    3300848: Surface  [266227]
+    3300850: Top Rail Type Circular - 40mm [211267]
+    3300852: Top Rail Type Circular - 40mm [211278]
+    3300854: Top Rail Type Circular - 40mm [237499]_[237500]
+    3300856: Top Rail Type Circular - 40mm [237499]_[237500] 1
+    3300858: Top Rail Type Circular - 40mm [237514]_[237515]
+    3300860: Top Rail Type Circular - 40mm [237514]_[237515] 1
+    3300862: Top Rail Type Circular - 40mm [240115]
+    3300864: Top Rail Type Circular - 40mm [240975]
+    3300866: Top Rail Type Circular - 40mm [241917]_[241918]
+    3300868: Top Rail Type Circular - 40mm [241917]_[241918] 1
+    3300870: Top Rail Type Circular - 40mm [241930]_[241931]
+    3300872: Top Rail Type Circular - 40mm [241930]_[241931] 1
+    4300000: Basic Wall 190 Block wall [200240]
+    4300002: Basic Wall 190 Block wall [200318]
+    4300004: Basic Wall 190 Block wall [200427]
+    4300006: Basic Wall 190 Block wall [200578]
+    4300008: Basic Wall 190 Block wall [200743]
+    4300010: Basic Wall 190 Block wall [200858]
+    4300012: Basic Wall 190 Block wall [200899]
+    4300014: Basic Wall 190 Block wall grey 1 [200970]
+    4300016: Basic Wall 190 Block wall grey 1 [201022]
+    4300018: Basic Wall 190 Block wall [201291]
+    4300020: Basic Wall 190 Block wall [201865]
+    4300022: Basic Wall 190 Block wall [201994]
+    4300024: Basic Wall 190 Block wall [202291]
+    4300026: Basic Wall 190 Block wall [202340]
+    4300028: Basic Wall 190 Block wall [202428]
+    4300030: Basic Wall 190 Block wall [202492]
+    4300032: Basic Wall 190 Block wall [202591]
+    4300034: Basic Wall 190 Block wall [202634]
+    4300036: Basic Wall 10pb 70 ts 10pb [202796]
+    4300038: Basic Wall 10pb 70 ts 10pb [202997]
+    4300040: Basic Wall 10pb 70 ts 10pb [203132]
+    4300042: Basic Wall 10pb 70 ts 10pb [203265]
+    4300044: Basic Wall 10pb 70 ts 10pb [203336]
+    4300046: Basic Wall 10pb 70 ts 10pb [203470]
+    4300048: Basic Wall 10pb 70 ts 10pb [203648]
+    4300050: Basic Wall 10pb 70 ts 10pb [203826]
+    4300052: Basic Wall 10pb 70 ts 10pb [203960]
+    4300054: Basic Wall 10pb 70 ts 10pb [204114]
+    4300056: Basic Wall 10pb 70 ts 10pb [204316]
+    4300058: Basic Wall 10pb 70 ts 10pb [204434]
+    4300060: Basic Wall 10pb 70 ts 10pb [204801]
+    4300062: Basic Wall 10pb 70 ts 10pb [204896]
+    4300064: Basic Wall 10pb 70 ts 10pb [204977]
+    4300066: Basic Wall 10pb 70 ts 10pb [205134]
+    4300068: Basic Wall 10pb 70 ts 10pb [205319]
+    4300070: Basic Wall 10pb 70 ts 10pb [205400]
+    4300072: Basic Wall 10pb 70 ts 10pb [205500]
+    4300074: Basic Wall 10pb 70 ts 10pb [205599]
+    4300076: Basic Wall 10pb 70 ts 10pb [205815]
+    4300078: Basic Wall 10pb 70 ts 10pb [206015]
+    4300080: Basic Wall 10pb 70 ts 10pb [206133]
+    4300082: Basic Wall 10pb 70 ts 10pb [206190]
+    4300084: Basic Wall 10pb 70 ts 10pb [206240]
+    4300086: Basic Wall 10pb 70 ts 10pb [206378]
+    4300088: Basic Wall 10pb 70 ts 10pb [206516]
+    4300090: Basic Wall 10pb 70 ts 10pb [206629]
+    4300092: M_Single-Flush 0864 x 2134mm [207304]
+    4300094: M_Single-Flush 0915 x 2134mm [207422]
+    4300096: M_Single-Flush 820 x 2330mm [208042]
+    4300098: M_Single-Flush 820 x 2330mm [208106]
+    4300100: Assembled Stair Stair [210920]_[240908]
+    4300102: Assembled Stair Stair [210920]_[240907]
+    4300104: Assembled Stair Stair [210920]_[240481]
+    4300106: Railing 900mm Pipe [211235]
+    4300108: Railing 900mm Pipe [211235]_[240524]
+    4300110: Railing 900mm Pipe [211235]_[240522]
+    4300112: Railing 900mm Pipe [211235]_[240520]
+    4300114: Railing 900mm Pipe [211235]_[240518]
+    4300116: Railing 900mm Pipe [211235]_[240516]
+    4300118: Railing 900mm Pipe [211235]_[240514]
+    4300120: Railing 900mm Pipe [211239]
+    4300122: Railing 900mm Pipe [211239]_[240511]
+    4300124: Railing 900mm Pipe [211239]_[240509]
+    4300126: Railing 900mm Pipe [211239]_[240507]
+    4300128: Railing 900mm Pipe [211239]_[240505]
+    4300130: Railing 900mm Pipe [211239]_[240503]
+    4300132: Railing 900mm Pipe [211239]_[240501]
+    4300134: Railing 900mm Pipe [211239]_[240499]
+    4300136: Top Rail Type Circular - 40mm [211267]
+    4300138: Top Rail Type Circular - 40mm [211278]
+    4300140: Floor Carpet 100mm [211905]
+    4300142: Floor 100mm concrete [212650]
+    4300144: Floor Carpet 100mm [214587]
+    4300146: Basic Wall 190 Block wall [215277]
+    4300148: Basic Wall 190 Block wall [215369]
+    4300150: M_Fixed Front aloy window 2700x900 [219029]
+    4300152: Door-Elevator_2-Speed_SMARTBIM Door-Elevator_2-Speed_SMARTBIM [223514]
+    4300154: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [227512]
+    4300156: Door-Double_Glazed-1-Lite_SMARTBIM Door-Double_Glazed-1-Lite_SMARTBIM
+      [229616]
+    4300158: Basic Wall 190 Block wall [229728]
+    4300160: M_Fixed Front aloy window 2700x250 [229852]
+    4300162: M_Fixed Front aloy window 2700x600 [230263]
+    4300164: M_Fixed Front aloy window 2700x600 [231242]
+    4300166: Basic Wall red 200mm feature [231723]
+    4300168: M_Fixed Front aloy window 2700x710 [232234]
+    4300170: Basic Wall 190 Block wall grey 1 [232824]
+    4300172: Assembled Stair Stair [236754]_[239331]
+    4300174: Assembled Stair Stair [236754]_[239330]
+    4300176: Assembled Stair Stair [236754]_[239329]
+    4300178: Assembled Stair Stair [236754]_[239328]
+    4300180: Assembled Stair Stair [236754]_[239327]
+    4300182: Assembled Stair Stair [236754]_[239326]
+    4300184: Assembled Stair Stair [236754]_[239325]
+    4300186: Assembled Stair Stair [236754]_[239324]
+    4300188: Assembled Stair Stair [236754]_[236875]
+    4300190: Assembled Stair Stair [236754]_[236873]
+    4300192: Assembled Stair Stair [236754]_[236801]
+    4300194: Railing 900mm Pipe [237464]_[237465]
+    4300196: Railing 900mm Pipe [237464]_[237498]
+    4300198: Railing 900mm Pipe [237464]_[237496]
+    4300200: Railing 900mm Pipe [237464]_[234748]
+    4300202: Railing 900mm Pipe [237464]_[234746]
+    4300204: Railing 900mm Pipe [237464]_[237480]
+    4300206: Railing 900mm Pipe [237464]_[237529]
+    4300208: Railing 900mm Pipe [237464]_[237489]
+    4300210: Railing 900mm Pipe [237464]_[234744]
+    4300212: Railing 900mm Pipe [237464]_[234742]
+    4300214: Railing 900mm Pipe [237468]_[237469]
+    4300216: Top Rail Type Circular - 40mm [237499]_[237500]
+    4300218: Top Rail Type Circular - 40mm [237514]_[237515]
+    4300220: Floor 100mm tiled [238234]
+    4300222: Stringer Stringer - 50mm Width [239324]
+    4300224: Stringer Stringer - 50mm Width [239325]
+    4300226: Stringer Stringer - 50mm Width [239326]
+    4300228: Stringer Stringer - 50mm Width [239327]
+    4300230: Stringer Stringer - 50mm Width [239328]
+    4300232: Stringer Stringer - 50mm Width [239329]
+    4300234: Stringer Stringer - 50mm Width [239330]
+    4300236: Stringer Stringer - 50mm Width [239331]
+    4300238: Railing 900mm Pipe [239997]
+    4300240: Top Rail Type Circular - 40mm [240115]
+    4300242: Stringer Stringer - 50mm Width [240907]
+    4300244: Stringer Stringer - 50mm Width [240908]
+    4300246: Railing 900mm Pipe [240924]
+    4300248: Top Rail Type Circular - 40mm [240975]
+    4300250: Floor Carpet 100mm [241360]
+    4300252: Assembled Stair Stair [241887]_[241950]
+    4300254: Assembled Stair Stair [241887]_[241949]
+    4300256: Assembled Stair Stair [241887]_[241948]
+    4300258: Assembled Stair Stair [241887]_[241947]
+    4300260: Assembled Stair Stair [241887]_[241946]
+    4300262: Assembled Stair Stair [241887]_[241945]
+    4300264: Assembled Stair Stair [241887]_[241944]
+    4300266: Assembled Stair Stair [241887]_[241943]
+    4300268: Assembled Stair Stair [241887]_[241892]
+    4300270: Assembled Stair Stair [241887]_[241890]
+    4300272: Assembled Stair Stair [241887]_[241888]
+    4300274: Railing 900mm Pipe [241894]_[241895]
+    4300276: Railing 900mm Pipe [241898]_[241899]
+    4300278: Top Rail Type Circular - 40mm [241917]_[241918]
+    4300280: Top Rail Type Circular - 40mm [241930]_[241931]
+    4300282: Stringer Stringer - 50mm Width [241943]
+    4300284: Stringer Stringer - 50mm Width [241944]
+    4300286: Stringer Stringer - 50mm Width [241945]
+    4300288: Stringer Stringer - 50mm Width [241946]
+    4300290: Stringer Stringer - 50mm Width [241947]
+    4300292: Stringer Stringer - 50mm Width [241948]
+    4300294: Stringer Stringer - 50mm Width [241949]
+    4300296: Stringer Stringer - 50mm Width [241950]
+    4300298: Basic Wall 190 Block wall [242943]
+    4300300: Basic Wall 190 Block wall [242969]
+    4300302: Basic Wall 190 Block wall [243062]
+    4300304: Basic Wall 190 Block wall [243113]
+    4300306: M_Single-Flush 820 x 2330mm [243126]
+    4300308: Foundation Slab Footpath [243243]
+    4300310: Basic Wall 190 Block wall [244481]
+    4300312: Basic Wall 190 Block wall [244629]
+    4300314: M_Single-Flush 820 x 2330mm [244682]
+    4300316: Basic Wall 190 Block wall [244744]
+    4300318: Basic Wall 190 Block wall [244781]
+    4300320: Foundation Slab Footpath [245081]
+    4300322: Basic Wall 190 Block wall [246373]
+    4300324: Floor Generic Floor - 400mm [246950]
+    4300326: M_Fixed Front aloy window 2700x710 [247572]
+    4300328: M_Fixed Front aloy window 2700x300 [250561]
+    4300330: M_Fixed Front aloy window 1700x300 2 [250717]
+    4300332: Basic Roof Generic Roof - 300mm [252582]
+    4300334: M_Fixed Front aloy window 2700x1000 [253423]
+    4300336: M_Fixed Front aloy window 1600x900 [253702]
+    4300338: M_Fixed Front aloy window over doorx914 [255985]
+    4300340: Columns 1 Columns 1 [257677]
+    4300342: Columns 2 Columns 1 [258418]
+    4300344: Columns 3 Columns 1 [258521]
+    4300346: Columns 4 Columns 1 [258536]
+    4300348: Columns 5 Columns 1 [258551]
+    4300350: Columns 6 Columns 1 [258568]
+    4300352: Basic Wall 190 Block wall [259008]
+    4300354: Basic Wall 190 Block wall [259462]
+    4300356: Basic Wall 190 Block wall [259621]
+    4300358: Basic Wall 190 Block wall [259948]
+    4300360: Basic Wall 190 Block wall [259988]
+    4300362: Basic Wall 190 Block wall [260185]
+    4300364: Basic Wall 190 Block wall [260193]
+    4300366: Basic Wall 190 Block wall [260201]
+    4300368: Basic Wall 190 Block wall [260209]
+    4300370: Basic Wall 190 Block wall [260217]
+    4300372: Basic Wall 190 Block wall [260225]
+    4300374: Basic Wall 190 Block wall [260233]
+    4300376: Basic Wall 190 Block wall [260456]
+    4300378: Basic Wall 190 Block wall [260527]
+    4300380: Surface  [266227]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
